@@ -1,0 +1,1601 @@
+,room_capacity,layout,property_type,location,city,price,area_in_sqft,status,deposit,no_bathrooms,facing
+0,3,BHK,Apartment,Attapur,Hyderabad,"9,000",600,Furnished,No,1,
+1,2,BHK,Apartment,Toli Chowki,Hyderabad,"16,000",1100,Semi-Furnished,No,2,
+2,4,BHK,Independent,Shamshabad,Hyderabad,"45,000",3000,Furnished,No,4,West
+3,3,BHK,Apartment,Nanakramguda,Hyderabad,"80,000",3105,Furnished,No,3,
+4,2,BHK,Independent,Malakpet,Hyderabad,"18,000",1200,Unfurnished,No,2,
+5,4,BHK,Villa,Nizampet,Hyderabad,"30,000",2400,Unfurnished,No,4,
+6,3,BHK,Apartment,Uppal,Hyderabad,"20,000",1800,Furnished,No,3,
+7,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1250,Semi-Furnished,No,2,East
+8,2,BHK,Apartment,Nallagandla Gachibowli,Hyderabad,"25,000",1350,Semi-Furnished,No,2,
+9,3,BHK,Apartment,Nanakramguda,Hyderabad,"47,500",1885,Semi-Furnished,No,3,
+10,3,BHK,Apartment,Banjara Hills,Hyderabad,1.15,3130,Semi-Furnished,No,3,
+11,4,BHK,Apartment,Kondapur,Hyderabad,"95,000",3070,Semi-Furnished,No,4,East
+12,3,BHK,Apartment,Nanakramguda,Hyderabad,"42,000",1886,Unfurnished,No,3,
+13,2,BHK,Apartment,Kondapur,Hyderabad,"20,000",950,Unfurnished,No,2,
+14,2,BHK,Apartment,Kondapur,Hyderabad,"30,000",1100,Semi-Furnished,No,2,
+15,1,BHK,Apartment,Madhapur,Hyderabad,"27,000",708,Furnished,No,1,
+16,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1200,Semi-Furnished,No,2,East
+17,3,BHK,Apartment,Kukatpally,Hyderabad,"46,000",1500,Semi-Furnished,No,2,
+18,3,BHK,Apartment,Jubilee Hills,Hyderabad,"60,000",2500,Semi-Furnished,No,3,
+19,3,BHK,Apartment,Kondapur,Hyderabad,"70,000",1840,Semi-Furnished,No,3,East
+20,3,BHK,Apartment,Attapur,Hyderabad,"9,000",600,Furnished,No,1,
+21,2,BHK,Apartment,Toli Chowki,Hyderabad,"16,000",1100,Semi-Furnished,No,2,
+22,4,BHK,Independent,Shamshabad,Hyderabad,"45,000",3000,Furnished,No,4,West
+23,3,BHK,Apartment,Nanakramguda,Hyderabad,"80,000",3105,Furnished,No,3,
+24,2,BHK,Independent,Malakpet,Hyderabad,"18,000",1200,Unfurnished,No,2,
+25,4,BHK,Villa,Nizampet,Hyderabad,"30,000",2400,Unfurnished,No,4,
+26,3,BHK,Apartment,Uppal,Hyderabad,"20,000",1800,Furnished,No,3,
+27,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1250,Semi-Furnished,No,2,East
+28,2,BHK,Apartment,Nallagandla Gachibowli,Hyderabad,"25,000",1350,Semi-Furnished,No,2,
+29,3,BHK,Apartment,Nanakramguda,Hyderabad,"47,500",1885,Semi-Furnished,No,3,
+30,3,BHK,Apartment,Banjara Hills,Hyderabad,1.15,3130,Semi-Furnished,No,3,
+31,4,BHK,Apartment,Kondapur,Hyderabad,"95,000",3070,Semi-Furnished,No,4,East
+32,3,BHK,Apartment,Nanakramguda,Hyderabad,"42,000",1886,Unfurnished,No,3,
+33,2,BHK,Apartment,Kondapur,Hyderabad,"20,000",950,Unfurnished,No,2,
+34,2,BHK,Apartment,Kondapur,Hyderabad,"30,000",1100,Semi-Furnished,No,2,
+35,1,BHK,Apartment,Madhapur,Hyderabad,"27,000",708,Furnished,No,1,
+36,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1200,Semi-Furnished,No,2,East
+37,3,BHK,Apartment,Kukatpally,Hyderabad,"46,000",1500,Semi-Furnished,No,2,
+38,3,BHK,Apartment,Jubilee Hills,Hyderabad,"60,000",2500,Semi-Furnished,No,3,
+39,3,BHK,Apartment,Kondapur,Hyderabad,"70,000",1840,Semi-Furnished,No,3,East
+40,1,BHK,Apartment,Madhapur,Hyderabad,"10,000",740,Furnished,No,1,
+41,1,BHK,Independent,Miyapur,Hyderabad,"13,500",500,Unfurnished,No,1,
+42,3,BHK,Apartment,Habsiguda,Hyderabad,"25,000",1700,Semi-Furnished,No,2,
+43,3,BHK,Independent,Timarpur,Hyderabad,1.8,4500,Semi-Furnished,No,3,North
+44,2,BHK,Independent,Nizampet,Hyderabad,"19,000",1100,Semi-Furnished,No,2,North
+45,3,BHK,Apartment,Puppalaguda,Hyderabad,"38,000",2400,Semi-Furnished,No,3,North
+46,3,BHK,Apartment,Madhapur,Hyderabad,"20,000",1750,Semi-Furnished,No,3,East
+47,1,BHK,Apartment,Kondapur,Hyderabad,"14,000",650,Semi-Furnished,No,1,
+48,1,BHK,Apartment,Kondapur,Hyderabad,"19,000",880,Semi-Furnished,No,1,
+49,3,BHK,Apartment,Kondapur,Hyderabad,"55,000",2070,Semi-Furnished,No,3,
+50,2,BHK,Apartment,Habsiguda,Hyderabad,"12,000",1399,Semi-Furnished,No,2,
+51,2,BHK,Independent,Bandlaguda Jagir,Hyderabad,"8,000",900,Semi-Furnished,No,2,
+52,3,BHK,Apartment,Miyapur,Hyderabad,"24,000",1407,Semi-Furnished,No,3,
+53,2,BHK,Apartment,Kondapur,Hyderabad,"16,500",1100,Semi-Furnished,No,2,
+54,1,RK,Studio,Kothaguda,Hyderabad,"9,000",200,Semi-Furnished,No,1,
+55,2,BHK,Independent,Ameerpet,Hyderabad,"14,000",1250,Semi-Furnished,No,2,
+56,2,BHK,Apartment,Kondapur,Hyderabad,"25,000",1200,Semi-Furnished,No,2,NorthWest
+57,1,BHK,Apartment,Kondapur,Hyderabad,"26,000",650,Furnished,No,1,
+58,3,BHK,Apartment,Himayat Nagar,Hyderabad,"40,000",2000,Semi-Furnished,No,3,
+59,3,BHK,Apartment,Kokapet,Hyderabad,"70,000",1905,Furnished,No,3,
+60,2,BHK,Apartment,Kondapur,Hyderabad,"24,000",1280,Semi-Furnished,No,2,East
+61,2,BHK,Apartment,Madhapur,Hyderabad,"38,000",1280,Furnished,No,2,
+62,3,BHK,Apartment,Kondapur,Hyderabad,"28,000",2500,Semi-Furnished,No,1,East
+63,2,BHK,Apartment,Nallagandla Gachibowli,Hyderabad,"12,000",1150,Semi-Furnished,No,2,West
+64,1,BHK,Apartment,Kondapur,Hyderabad,"24,000",650,Furnished,No,1,NorthWest
+65,3,BHK,Apartment,Nanakramguda,Hyderabad,"56,000",1885,Semi-Furnished,No,3,
+66,2,BHK,Apartment,Gopanpally,Hyderabad,"42,000",1290,Furnished,No,2,
+67,3,BHK,Apartment,Puppalaguda,Hyderabad,"55,000",1492,Semi-Furnished,No,2,East
+68,1,BHK,Apartment,Kondapur,Hyderabad,"17,000",650,Unfurnished,No,1,
+69,3,BHK,Apartment,Banjara Hills,Hyderabad,1.15,3125,Semi-Furnished,No,3,
+70,2,BHK,Apartment,Kondapur,Hyderabad,"35,000",1100,Furnished,No,2,
+71,1,BHK,Apartment,Kondapur,Hyderabad,"15,000",750,Unfurnished,No,1,
+72,2,BHK,Apartment,Madhapur,Hyderabad,"30,000",1230,Semi-Furnished,No,2,
+73,2,BHK,Apartment,Kondapur,Hyderabad,"26,000",1300,Semi-Furnished,No,2,
+74,2,BHK,Apartment,Gowlidody,Hyderabad,"26,000",1050,Furnished,No,2,NorthEast
+75,3,BHK,Independent,Manikonda,Hyderabad,"45,000",1600,Semi-Furnished,No,3,East
+76,3,BHK,Apartment,Kondapur,Hyderabad,"35,000",1800,Semi-Furnished,No,3,
+77,1,BHK,Apartment,Kondapur,Hyderabad,"15,000",790,Semi-Furnished,No,1,North
+78,2,BHK,Apartment,Nizampet,Hyderabad,"26,000",1400,Semi-Furnished,No,2,East
+79,2,BHK,Apartment,Gachibowli,Hyderabad,"32,000",1250,Furnished,,,
+80,3,BHK,Apartment,Nallagandla Gachibowli,Hyderabad,"45,000",1650,Semi-Furnished,No,3,
+81,3,BHK,Apartment,Gachibowli,Hyderabad,"38,000",1500,Semi-Furnished,No,2,
+82,3,BHK,Apartment,Kondapur,Hyderabad,"40,000",2250,Semi-Furnished,No,2,
+83,4,BHK,Villa,Nallagandla Gachibowli,Hyderabad,"90,000",4000,Semi-Furnished,No,4,NorthEast
+84,3,BHK,Apartment,Puppalaguda,Hyderabad,"32,000",1600,Semi-Furnished,No,3,West
+85,4,BHK,Independent,Jubilee Hills,Hyderabad,4.5,4000,Semi-Furnished,,,
+86,2,BHK,Apartment,Madhapur,Hyderabad,"45,000",1350,Furnished,,,
+87,3,BHK,Apartment,Nanakramguda,Hyderabad,"80,000",3105,Furnished,No,3,
+88,2,BHK,Independent,Malakpet,Hyderabad,"18,000",1200,Unfurnished,No,2,
+89,4,BHK,Villa,Nizampet,Hyderabad,"30,000",2400,Unfurnished,No,4,
+90,1,BHK,Apartment,Kondapur,Hyderabad,"16,000",600,Semi-Furnished,No,1,East
+91,3,BHK,Apartment,Nanakramguda,Hyderabad,"56,000",1882,Semi-Furnished,No,3,
+92,2,BHK,Apartment,Kondapur,Hyderabad,"29,000",1200,Semi-Furnished,No,2,
+93,1,BHK,Apartment,Madhapur,Hyderabad,"17,000",604,Unfurnished,No,1,
+94,1,BHK,Apartment,Kondapur,Hyderabad,"25,000",650,Furnished,No,1,
+95,1,BHK,Apartment,Kondapur,Hyderabad,"22,000",750,Semi-Furnished,No,1,North
+96,2,BHK,Apartment,Nizampet,Hyderabad,"23,000",1300,Semi-Furnished,No,2,North
+97,1,BHK,Apartment,Madhapur,Hyderabad,"19,000",650,Semi-Furnished,No,1,
+98,3,BHK,Apartment,Hitech City,Hyderabad,"50,000",1700,Semi-Furnished,No,3,NorthEast
+99,3,BHK,Apartment,Nanakramguda,Hyderabad,,,Furnished,No,3,
+100,3,BHK,Apartment,Madhapur,Hyderabad,,,Furnished,,,
+101,1,BHK,Apartment,Kondapur,Hyderabad,"24,000",550,Furnished,,,
+102,2,BHK,Apartment,Nallagandla Gachibowli,Hyderabad,"28,000",1350,Semi-Furnished,,,
+103,3,BHK,Apartment,Kondapur,Hyderabad,"35,000",1950,Semi-Furnished,No,2,
+104,3,BHK,Apartment,Nanakramguda,Hyderabad,"80,000",3105,Furnished,No,3,
+105,4,BHK,Villa,Nizampet,Hyderabad,"30,000",2400,Unfurnished,No,4,
+106,3,BHK,Apartment,Kondapur,Hyderabad,"34,000",1650,Semi-Furnished,No,3,North
+107,2,BHK,Apartment,Nanakramguda,Hyderabad,"46,500",1283,Semi-Furnished,No,2,
+108,3,BHK,Apartment,Kondapur,Hyderabad,"37,500",2300,Semi-Furnished,No,3,
+109,1,BHK,Apartment,Madhapur,Hyderabad,"28,000",780,Furnished,No,1,
+110,1,BHK,Apartment,Kondapur,Hyderabad,"22,000",750,Semi-Furnished,No,1,North
+111,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1250,Semi-Furnished,,,
+112,2,BHK,Villa,Kukatpally,Hyderabad,"55,000",2750,Semi-Furnished,No,2,NorthEast
+113,3,BHK,Apartment,Jubilee Hills,Hyderabad,"70,000",2100,Semi-Furnished,No,3,
+114,4,BHK,Apartment,Shaikpet,Hyderabad,1.8,4415,Semi-Furnished,,,
+115,1,BHK,Apartment,Kondapur,Hyderabad,"22,000",500,Furnished,No,1,
+116,3,BHK,Apartment,Nanakramguda,Hyderabad,"80,000",3105,Furnished,No,3,
+117,4,BHK,Villa,Nizampet,Hyderabad,"30,000",2400,Unfurnished,No,2,East
+118,1,BHK,Apartment,Gachibowli,Hyderabad,"23,000",550,Furnished,,,
+119,2,BHK,Apartment,Nallagandla Gachibowli,Hyderabad,"28,000",1350,Semi-Furnished,,,
+120,3,BHK,Apartment,Nanakramguda,Hyderabad,"80,000",3105,Furnished,No,3,
+121,3,BHK,Apartment,Nanakramguda,Hyderabad,"80,000",3105,Furnished,No,3,
+122,3,BHK,Apartment,Nanakramguda,Hyderabad,"80,000",3105,Furnished,No,3,
+123,3,BHK,Apartment,Nanakramguda,Hyderabad,"80,000",3105,Furnished,No,3,
+124,3,BHK,Apartment,Nanakramguda,Hyderabad,"80,000",3105,Furnished,No,3,
+125,4,BHK,Villa,Nizampet,Hyderabad,"30,000",2400,Unfurnished,No,2,East
+126,4,BHK,Villa,Nizampet,Hyderabad,"30,000",2400,Unfurnished,No,2,East
+127,4,BHK,Villa,Nizampet,Hyderabad,"30,000",2400,Unfurnished,No,2,
+128,4,BHK,Villa,Nizampet,Hyderabad,"30,000",2400,Unfurnished,No,2,
+129,4,BHK,Villa,Nizampet,Hyderabad,"30,000",2400,Unfurnished,No,3,East
+130,4,BHK,Villa,Nizampet,Hyderabad,"30,000",2400,Unfurnished,No,3,East
+131,4,BHK,Villa,Nizampet,Hyderabad,"30,000",2400,Unfurnished,No,2,East
+132,4,BHK,Villa,Nizampet,Hyderabad,"30,000",2400,Unfurnished,No,2,East
+133,4,BHK,Villa,Nizampet,Hyderabad,"30,000",2400,Unfurnished,No,2,East
+134,4,BHK,Villa,Nizampet,Hyderabad,"30,000",2400,Unfurnished,No,2,East
+135,2,BHK,Apartment,Kondapur,Hyderabad,"25,000",1100,Semi-Furnished,No,2,North
+136,3,BHK,Apartment,Kondapur,Hyderabad,"33,000",1750,Semi-Furnished,No,3,West
+137,3,BHK,Apartment,Kondapur,Hyderabad,"37,000",1850,Semi-Furnished,No,3,NorthEast
+138,2,BHK,Apartment,Nanakramguda,Hyderabad,"42,000",1250,Semi-Furnished,No,2,
+139,3,BHK,Apartment,Nanakramguda,Hyderabad,"47,600",1885,Semi-Furnished,No,3,
+140,2,BHK,Apartment,Nanakramguda,Hyderabad,"42,000",1250,Semi-Furnished,No,2,
+141,3,BHK,Apartment,Nanakramguda,Hyderabad,"47,500",1885,Unfurnished,No,3,
+142,3,BHK,Apartment,Nanakramguda,Hyderabad,"55,500",1885,Semi-Furnished,No,3,
+143,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1350,Semi-Furnished,No,2,East
+144,1,BHK,Apartment,Kondapur,Hyderabad,"24,000",650,Furnished,No,1,South
+145,2,BHK,Apartment,Kondapur,Hyderabad,"27,000",1200,Semi-Furnished,No,2,South
+146,2,BHK,Apartment,Kondapur,Hyderabad,"26,000",1250,Semi-Furnished,No,2,West
+147,2,BHK,Apartment,Kondapur,Hyderabad,"26,000",1300,Semi-Furnished,No,2,West
+148,1,BHK,Apartment,Kondapur,Hyderabad,"19,000",550,Semi-Furnished,No,1,
+149,1,BHK,Apartment,Kondapur,Hyderabad,"22,000",500,Furnished,No,1,
+150,1,BHK,Apartment,Kondapur,Hyderabad,"23,000",600,Furnished,No,1,
+151,2,BHK,Apartment,Kondapur,Hyderabad,"36,000",1100,Furnished,No,2,
+152,1,BHK,Apartment,Kondapur,Hyderabad,"24,500",550,Furnished,No,1,
+153,2,BHK,Apartment,Kondapur,Hyderabad,"40,000",1200,Furnished,No,2,
+154,2,BHK,Apartment,Kondapur,Hyderabad,"36,000",1100,Furnished,No,2,
+155,1,BHK,Apartment,Kondapur,Hyderabad,"18,000",600,Semi-Furnished,No,1,
+156,1,BHK,Apartment,Kondapur,Hyderabad,"25,000",550,Furnished,No,1,
+157,2,BHK,Apartment,Kondapur,Hyderabad,"26,000",1250,Semi-Furnished,,,
+158,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1150,Furnished,,,
+159,1,BHK,Apartment,Kondapur,Hyderabad,"24,500",580,Furnished,No,1,East
+160,1,BHK,Apartment,Kondapur,Hyderabad,"24,500",540,Furnished,No,1,East
+161,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1200,Semi-Furnished,No,2,East
+162,1,BHK,Apartment,Kondapur,Hyderabad,"23,000",750,Furnished,No,1,East
+163,2,BHK,Apartment,Kondapur,Hyderabad,"25,000",1050,Furnished,No,1,East
+164,1,BHK,Apartment,Kondapur,Hyderabad,"25,000",500,Furnished,No,1,
+165,2,BHK,Apartment,Kondapur,Hyderabad,"24,000",1000,Semi-Furnished,No,2,
+166,1,BHK,Apartment,Kondapur,Hyderabad,"23,000",580,Furnished,No,1,East
+167,1,BHK,Apartment,Kondapur,Hyderabad,"24,500",640,Furnished,No,1,East
+168,1,BHK,Apartment,Kondapur,Hyderabad,"19,000",600,Semi-Furnished,No,1,
+169,2,BHK,Apartment,Madhapur,Hyderabad,"28,000",1050,Semi-Furnished,No,3,
+170,2,BHK,Apartment,Kondapur,Hyderabad,"32,000",1300,Semi-Furnished,,,
+171,2,BHK,Apartment,Kondapur,Hyderabad,"40,000",1200,Furnished,,,
+172,3,BHK,Apartment,Kondapur,Hyderabad,"43,000",2200,Semi-Furnished,No,3,
+173,3,BHK,Apartment,Kondapur,Hyderabad,"34,000",1900,Semi-Furnished,No,3,
+174,3,BHK,Apartment,Kondapur,Hyderabad,"37,500",2200,Semi-Furnished,No,3,
+175,3,BHK,Apartment,Kondapur,Hyderabad,"46,000",2200,Furnished,No,3,
+176,1,BHK,Apartment,Kondapur,Hyderabad,"15,000",1000,Semi-Furnished,No,1,
+177,3,BHK,Apartment,Kondapur,Hyderabad,"37,500",2000,Semi-Furnished,No,3,
+178,3,BHK,Apartment,Kondapur,Hyderabad,"35,000",1900,Semi-Furnished,No,3,
+179,3,BHK,Apartment,Kondapur,Hyderabad,"34,500",2000,Semi-Furnished,No,3,
+180,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1150,Semi-Furnished,No,2,
+181,1,RK,Studio,Madhapur,Hyderabad,"21,500",500,Furnished,No,1,
+182,2,BHK,Apartment,Madhapur,Hyderabad,"41,000",2000,Semi-Furnished,No,2,
+183,2,BHK,Apartment,Madhapur,Hyderabad,"33,000",1209,Semi-Furnished,No,2,
+184,1,BHK,Apartment,Madhapur,Hyderabad,"16,000",705,Unfurnished,No,1,
+185,1,BHK,Apartment,Madhapur,Hyderabad,"28,000",706,Furnished,No,1,
+186,3,BHK,Apartment,Kondapur,Hyderabad,"44,000",2000,Furnished,No,3,NorthEast
+187,2,BHK,Apartment,Kondapur,Hyderabad,"33,000",1200,Furnished,No,2,
+188,3,BHK,Apartment,Kondapur,Hyderabad,"46,000",2200,Furnished,No,3,
+189,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1200,Semi-Furnished,No,2,
+190,1,BHK,Apartment,Kondapur,Hyderabad,"23,000",750,Furnished,No,1,
+191,1,BHK,Apartment,Kondapur,Hyderabad,"23,000",750,Furnished,No,1,
+192,2,BHK,Apartment,Kondapur,Hyderabad,"37,000",1200,Furnished,No,2,
+193,3,BHK,Apartment,Kondapur,Hyderabad,"38,000",2250,Semi-Furnished,No,3,
+194,2,BHK,Apartment,Kondapur,Hyderabad,"27,000",1400,Semi-Furnished,No,2,
+195,3,BHK,Apartment,Kondapur,Hyderabad,"48,000",2000,Furnished,No,3,
+196,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1800,Semi-Furnished,No,1,
+197,1,BHK,Apartment,Kondapur,Hyderabad,"17,000",750,Semi-Furnished,No,1,
+198,2,BHK,Apartment,Kondapur,Hyderabad,"26,000",1400,Semi-Furnished,No,2,
+199,1,BHK,Apartment,Kondapur,Hyderabad,"16,500",850,Unfurnished,No,1,
+200,2,BHK,Apartment,Kondapur,Hyderabad,"26,000",1400,Semi-Furnished,No,2,
+201,1,BHK,Apartment,Kondapur,Hyderabad,"16,500",850,Unfurnished,No,1,
+202,2,BHK,Apartment,Kondapur,Hyderabad,"27,000",1220,Semi-Furnished,No,2,
+203,3,BHK,Apartment,Kondapur,Hyderabad,"32,000",2000,Semi-Furnished,No,3,
+204,3,BHK,Apartment,Kondapur,Hyderabad,"30,000",1800,Semi-Furnished,No,3,
+205,3,BHK,Apartment,Kondapur,Hyderabad,"45,000",2000,Furnished,No,3,
+206,3,BHK,Apartment,Kondapur,Hyderabad,"32,000",1800,Semi-Furnished,No,3,
+207,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1200,Semi-Furnished,No,2,North
+208,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1150,Semi-Furnished,No,2,East
+209,1,BHK,Apartment,Madhapur,Hyderabad,"27,500",703,Furnished,,,
+210,1,BHK,Apartment,Madhapur,Hyderabad,"17,000",702,Unfurnished,,,
+211,1,BHK,Apartment,Madhapur,Hyderabad,"22,000",801,Semi-Furnished,,,
+212,1,RK,Studio,Madhapur,Hyderabad,"23,000",550,Furnished,,,
+213,2,BHK,Apartment,Madhapur,Hyderabad,"38,000",1230,Furnished,,,
+214,2,BHK,Apartment,Kondapur,Hyderabad,"26,000",1400,Semi-Furnished,No,2,
+215,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1250,Semi-Furnished,No,2,
+216,2,BHK,Apartment,Kondapur,Hyderabad,"24,000",1220,Semi-Furnished,,,
+217,2,BHK,Apartment,Kondapur,Hyderabad,"24,000",1200,Semi-Furnished,,,
+218,2,BHK,Apartment,Kondapur,Hyderabad,"26,000",1240,Semi-Furnished,,,
+219,2,BHK,Apartment,Kondapur,Hyderabad,"34,000",1230,Semi-Furnished,,,
+220,2,BHK,Apartment,Kondapur,Hyderabad,"32,000",1250,Semi-Furnished,,,
+221,3,BHK,Apartment,Kondapur,Hyderabad,"33,000",2000,Semi-Furnished,,,
+222,1,BHK,Apartment,Kondapur,Hyderabad,"14,000",750,Unfurnished,,,
+223,2,BHK,Apartment,Kondapur,Hyderabad,"27,000",1200,Semi-Furnished,,,
+224,3,BHK,Apartment,Kondapur,Hyderabad,"36,000",2300,Semi-Furnished,,,
+225,2,BHK,Apartment,Kondapur,Hyderabad,"28,500",1400,Semi-Furnished,,,
+226,1,BHK,Apartment,Kondapur,Hyderabad,"23,000",750,Furnished,,,
+227,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1250,Semi-Furnished,,,
+228,2,BHK,Apartment,Kondapur,Hyderabad,"26,500",1250,Semi-Furnished,,,
+229,3,BHK,Apartment,Kukatpally,Hyderabad,"32,000",1450,Semi-Furnished,No,3,
+230,2,BHK,Apartment,Kondapur,Hyderabad,"26,220",1140,Semi-Furnished,No,2,East
+231,1,BHK,Apartment,Kondapur,Hyderabad,"23,500",850,Furnished,,,
+232,2,BHK,Apartment,Kondapur,Hyderabad,"36,000",1240,Furnished,,,
+233,3,BHK,Apartment,Kondapur,Hyderabad,"36,500",2000,Semi-Furnished,,,
+234,2,BHK,Apartment,Kondapur,Hyderabad,"27,000",1200,Semi-Furnished,,,
+235,2,BHK,Apartment,Kondapur,Hyderabad,"28,500",1400,Semi-Furnished,,,
+236,3,BHK,Apartment,Hitech City,Hyderabad,"64,000",1730,Semi-Furnished,No,3,
+237,4,BHK,Apartment,Narsingi,Hyderabad,"80,000",4000,Semi-Furnished,No,4,
+238,3,BHK,Apartment,Kukatpally,Hyderabad,"62,000",2000,Semi-Furnished,No,3,
+239,2,BHK,Apartment,Kondapur,Hyderabad,"60,000",1840,Semi-Furnished,No,2,NorthEast
+240,3,BHK,Apartment,Nanakramguda,Hyderabad,"70,000",3300,Semi-Furnished,No,3,NorthEast
+241,3,BHK,Apartment,Kokapet,Hyderabad,"60,000",2185,Semi-Furnished,No,3,NorthEast
+242,3,BHK,Apartment,Kokapet,Hyderabad,"55,000",2615,Furnished,No,3,NorthEast
+243,3,BHK,Apartment,Kukatpally,Hyderabad,"35,000",1600,Semi-Furnished,No,3,NorthEast
+244,3,BHK,Apartment,Kokapet,Hyderabad,"65,000",2049,Semi-Furnished,No,3,NorthEast
+245,3,BHK,Apartment,Kokapet,Hyderabad,"60,000",2600,Semi-Furnished,No,3,NorthEast
+246,2,BHK,Apartment,Kondapur,Hyderabad,"60,000",1840,Semi-Furnished,No,2,NorthEast
+247,2,BHK,Apartment,Gachibowli,Hyderabad,"60,000",892,Furnished,No,2,NorthEast
+248,2,BHK,Apartment,Gachibowli,Hyderabad,"40,000",1110,Semi-Furnished,No,2,NorthEast
+249,3,BHK,Apartment,Kukatpally,Hyderabad,"60,000",1931,Semi-Furnished,No,3,NorthEast
+250,2,BHK,Apartment,Kukatpally,Hyderabad,"40,000",1450,Semi-Furnished,No,2,NorthEast
+251,3,BHK,Apartment,Hitech City,Hyderabad,"50,000",1136,Semi-Furnished,No,3,NorthEast
+252,2,BHK,Apartment,Gopanpally,Hyderabad,"60,000",1725,Furnished,No,2,NorthEast
+253,3,BHK,Apartment,Kondapur,Hyderabad,"65,000",1855,Semi-Furnished,No,3,NorthEast
+254,3,BHK,Apartment,Tellapur,Hyderabad,"60,000",2083,Furnished,No,3,NorthEast
+255,3,BHK,Apartment,Kondapur,Hyderabad,"80,000",1965,Semi-Furnished,No,3,NorthEast
+256,4,BHK,Apartment,Tellapur,Hyderabad,1.25,3600,Semi-Furnished,No,4,NorthEast
+257,3,BHK,Apartment,Hitech City,Hyderabad,"60,000",2200,Furnished,No,3,NorthEast
+258,3,BHK,Apartment,Nanakramguda,Hyderabad,"70,000",1855,Semi-Furnished,No,3,NorthEast
+259,4,BHK,Apartment,Kondapur,Hyderabad,1.1,2835,Semi-Furnished,No,3,NorthEast
+260,3,BHK,Apartment,Hitech City,Hyderabad,"68,000",1730,Semi-Furnished,No,3,NorthEast
+261,4,BHK,Apartment,Hitech City,Hyderabad,"77,000",2692,Semi-Furnished,No,4,NorthEast
+262,2,BHK,Apartment,Kompally,Hyderabad,"25,000",1046,Semi-Furnished,No,2,NorthEast
+263,3,BHK,Apartment,Tellapur,Hyderabad,"60,000",2083,Semi-Furnished,No,3,NorthEast
+264,5,BHK,Villa,Kukatpally,Hyderabad,,,Semi-Furnished,No,5,NorthEast
+265,3,BHK,Apartment,Gachibowli,Hyderabad,"65,000",1600,Semi-Furnished,No,2,NorthEast
+266,4,BHK,Villa,Appa Junction Peerancheru,Hyderabad,"75,000",3731,Semi-Furnished,No,4,NorthEast
+267,3,BHK,Apartment,Kukatpally,Hyderabad,"45,000",1830,Semi-Furnished,No,3,NorthEast
+268,3,BHK,Apartment,Gopanpally,Hyderabad,"50,000",1610,Semi-Furnished,No,3,NorthEast
+269,3,BHK,Apartment,Hitech City,Hyderabad,"48,000",1800,Semi-Furnished,No,3,NorthEast
+270,3,BHK,Apartment,Kukatpally,Hyderabad,"60,000",1735,Semi-Furnished,No,3,NorthEast
+271,3,BHK,Apartment,Kokapet,Hyderabad,"65,000",2600,Furnished,No,3,NorthEast
+272,3,BHK,Apartment,Kondapur,Hyderabad,"60,000",1855,Semi-Furnished,No,3,NorthEast
+273,4,BHK,Villa,Kokapet,Hyderabad,2.4,4500,Semi-Furnished,No,4,NorthEast
+274,3,BHK,Apartment,Kukatpally,Hyderabad,"46,000",1700,Semi-Furnished,No,3,NorthEast
+275,3,BHK,Apartment,Gachibowli,Hyderabad,"68,000",1206,Furnished,No,3,NorthEast
+276,3,BHK,Apartment,Kondapur,Hyderabad,1.1,2835,Semi-Furnished,No,3,NorthEast
+277,3,BHK,Apartment,Kondapur,Hyderabad,"65,000",1840,Semi-Furnished,No,3,NorthEast
+278,2,BHK,Apartment,Kondapur,Hyderabad,"45,000",1250,Unfurnished,No,2,NorthEast
+279,3,BHK,Apartment,Kokapet,Hyderabad,"70,000",1668,Furnished,No,3,NorthEast
+280,3,BHK,Apartment,Kukatpally,Hyderabad,"60,000",1735,Semi-Furnished,No,3,NorthEast
+281,3,BHK,Apartment,Gopanpally,Hyderabad,"50,000",1610,Semi-Furnished,No,3,NorthEast
+282,3,BHK,Apartment,Hitech City,Hyderabad,"48,000",1800,Semi-Furnished,No,3,NorthEast
+283,3,BHK,Apartment,Nallagandla Gachibowli,Hyderabad,"50,000",1700,Furnished,No,3,NorthEast
+284,3,BHK,Apartment,Gachibowli,Hyderabad,"85,000",1913,Furnished,No,3,NorthEast
+285,3,BHK,Apartment,Tellapur,Hyderabad,"45,000",1840,Semi-Furnished,No,3,NorthEast
+286,3,BHK,Apartment,Serilingampally,Hyderabad,"64,000",1890,Semi-Furnished,No,3,NorthEast
+287,3,BHK,Apartment,Kokapet,Hyderabad,"55,000",1116,Semi-Furnished,No,3,NorthEast
+288,3,BHK,Apartment,Kondapur,Hyderabad,"65,000",1700,Semi-Furnished,No,3,NorthEast
+289,3,BHK,Apartment,Gachibowli,Hyderabad,"65,000",1575,Semi-Furnished,No,2,NorthEast
+290,3,BHK,Apartment,Nanakramguda,Hyderabad,"85,000",2615,Furnished,No,3,NorthEast
+291,3,BHK,Apartment,Tellapur,Hyderabad,"45,000",1575,Semi-Furnished,No,3,NorthEast
+292,1,BHK,Apartment,Kondapur,Hyderabad,"25,000",650,Furnished,No,1,
+293,3,BHK,Apartment,Kondapur,Hyderabad,"38,000",1950,Furnished,No,3,
+294,2,BHK,Apartment,Kondapur,Hyderabad,"27,000",1200,Semi-Furnished,No,2,
+295,1,BHK,Apartment,Kondapur,Hyderabad,"17,000",600,Semi-Furnished,No,1,
+296,3,BHK,Apartment,Kondapur,Hyderabad,"40,000",1950,Furnished,No,3,
+297,1,BHK,Apartment,Kondapur,Hyderabad,"23,000",650,Furnished,No,1,
+298,1,BHK,Apartment,Kondapur,Hyderabad,"25,000",650,Furnished,No,1,
+299,2,BHK,Apartment,Kondapur,Hyderabad,"27,000",1200,Semi-Furnished,No,2,
+300,2,BHK,Apartment,Kondapur,Hyderabad,"25,000",1200,Semi-Furnished,No,2,
+301,2,BHK,Apartment,Kondapur,Hyderabad,"25,000",1200,Semi-Furnished,No,2,
+302,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1200,Semi-Furnished,No,2,
+303,3,BHK,Apartment,Kondapur,Hyderabad,"35,000",1850,Semi-Furnished,No,3,
+304,1,BHK,Apartment,Kondapur,Hyderabad,"16,000",650,Semi-Furnished,No,2,
+305,2,BHK,Apartment,Kondapur,Hyderabad,"30,000",1250,Semi-Furnished,No,2,
+306,1,BHK,Apartment,Kondapur,Hyderabad,"17,000",650,Semi-Furnished,No,1,
+307,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1200,Semi-Furnished,No,2,
+308,3,BHK,Apartment,Kondapur,Hyderabad,"35,000",1950,Semi-Furnished,No,3,
+309,2,BHK,Apartment,Kondapur,Hyderabad,"35,000",1200,Furnished,No,2,
+310,3,BHK,Apartment,Kondapur,Hyderabad,"32,000",1200,Semi-Furnished,No,3,
+311,1,BHK,Apartment,Kondapur,Hyderabad,"17,000",650,Semi-Furnished,No,1,
+312,2,BHK,Apartment,Kondapur,Hyderabad,"35,000",1250,Furnished,No,2,
+313,2,BHK,Apartment,Kondapur,Hyderabad,"27,000",1250,Semi-Furnished,No,2,
+314,2,BHK,Apartment,Kondapur,Hyderabad,"26,000",1200,Semi-Furnished,No,2,
+315,3,BHK,Apartment,Kondapur,Hyderabad,"35,000",1850,Semi-Furnished,No,3,
+316,2,BHK,Apartment,Kondapur,Hyderabad,"27,000",1200,Semi-Furnished,No,2,
+317,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1250,Semi-Furnished,No,2,
+318,4,BHK,Apartment,Manikonda,Hyderabad,"40,000",2500,Semi-Furnished,No,3,
+319,3,BHK,Apartment,Puppalaguda,Hyderabad,"55,000",1600,Furnished,No,3,
+320,2,BHK,Apartment,Kondapur,Hyderabad,"27,000",1250,Semi-Furnished,No,1,
+321,2,BHK,Apartment,Kondapur,Hyderabad,"32,000",1250,Unfurnished,No,2,
+322,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1250,Semi-Furnished,No,1,
+323,1,BHK,Apartment,Kondapur,Hyderabad,"22,000",650,Furnished,No,1,
+324,3,BHK,Apartment,Narsingi,Hyderabad,"35,000",1600,Semi-Furnished,No,3,
+325,2,BHK,Apartment,Kondapur,Hyderabad,"32,000",1250,Semi-Furnished,No,2,
+326,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1250,Semi-Furnished,No,2,
+327,3,BHK,Independent,Puppalaguda,Hyderabad,"57,500",1700,Furnished,No,2,
+328,4,BHK,Apartment,Manikonda,Hyderabad,"40,000",2500,Semi-Furnished,No,3,
+329,3,BHK,Apartment,Puppalaguda,Hyderabad,"55,000",1600,Furnished,No,3,
+330,3,BHK,Independent,Manikonda,Hyderabad,"35,000",1600,Semi-Furnished,No,3,
+331,1,RK,Studio,Puppalaguda,Hyderabad,"22,000",1050,Furnished,No,1,
+332,2,BHK,Apartment,Manikonda,Hyderabad,"25,000",1300,Semi-Furnished,No,2,
+333,3,BHK,Apartment,Manikonda,Hyderabad,"32,000",1500,Semi-Furnished,No,2,
+334,2,BHK,Apartment,Puppalaguda,Hyderabad,"30,000",1300,Semi-Furnished,No,3,
+335,3,BHK,Villa,Puppalaguda,Hyderabad,"50,000",3500,Semi-Furnished,No,4,
+336,1,BHK,Apartment,Kondapur,Hyderabad,"25,000",750,Furnished,No,1,
+337,1,BHK,Apartment,Kondapur,Hyderabad,"18,000",650,Semi-Furnished,No,1,
+338,3,BHK,Apartment,Narsingi,Hyderabad,"30,000",1600,Semi-Furnished,No,3,
+339,2,BHK,Apartment,Khajaguda Nanakramguda Road,Hyderabad,"35,000",1200,Semi-Furnished,No,2,
+340,3,BHK,Apartment,Manikonda,Hyderabad,"35,000",1500,Semi-Furnished,No,3,
+341,3,BHK,Apartment,Manikonda,Hyderabad,"35,000",1500,Semi-Furnished,No,2,
+342,3,BHK,Apartment,Manikonda,Hyderabad,"45,000",1500,Furnished,No,3,
+343,3,BHK,Apartment,Puppalaguda,Hyderabad,"45,000",1580,Semi-Furnished,No,2,
+344,3,BHK,Apartment,Manikonda,Hyderabad,"45,000",2000,Semi-Furnished,No,3,
+345,3,BHK,Apartment,Manikonda,Hyderabad,"32,000",1400,Semi-Furnished,No,3,
+346,3,BHK,Apartment,Manikonda,Hyderabad,"33,000",1400,Semi-Furnished,No,2,
+347,1,BHK,Apartment,Kondapur,Hyderabad,"21,000",870,Furnished,No,1,East
+348,1,BHK,Apartment,Kondapur,Hyderabad,"21,500",550,Furnished,No,1,NorthWest
+349,1,BHK,Apartment,Kondapur,Hyderabad,"16,700",850,Semi-Furnished,No,1,NorthEast
+350,1,BHK,Apartment,Kondapur,Hyderabad,"19,500",870,Furnished,No,1,East
+351,1,BHK,Apartment,Kondapur,Hyderabad,"22,000",800,Furnished,No,1,North
+352,1,BHK,Apartment,Kondapur,Hyderabad,"18,500",850,Semi-Furnished,No,1,North
+353,2,BHK,Apartment,Kondapur,Hyderabad,"25,000",1200,Semi-Furnished,No,1,NorthEast
+354,1,BHK,Apartment,Kondapur,Hyderabad,"23,000",560,Furnished,No,1,East
+355,1,BHK,Apartment,Kondapur,Hyderabad,"23,000",600,Furnished,No,1,North
+356,1,BHK,Apartment,Kondapur,Hyderabad,"22,000",800,Furnished,No,1,North
+357,3,BHK,Apartment,Manikonda,Hyderabad,"40,000",1700,Semi-Furnished,No,3,North
+358,1,BHK,Apartment,Kondapur,Hyderabad,"17,000",750,Semi-Furnished,,,
+359,1,BHK,Apartment,Kondapur,Hyderabad,"16,000",870,Semi-Furnished,No,1,North
+360,1,BHK,Apartment,Kondapur,Hyderabad,"22,000",780,Furnished,No,1,NorthEast
+361,1,BHK,Apartment,Kondapur,Hyderabad,"19,000",780,Furnished,No,1,North
+362,1,BHK,Apartment,Kondapur,Hyderabad,"17,700",550,Semi-Furnished,No,1,East
+363,3,BHK,Apartment,Kondapur,Hyderabad,"48,000",2200,Furnished,No,3,East
+364,1,BHK,Apartment,Kondapur,Hyderabad,"16,000",780,Semi-Furnished,,,
+365,2,BHK,Independent,Bandlaguda Jagir,Hyderabad,"8,000",900,Semi-Furnished,No,2,
+366,2,BHK,Independent,Bandlaguda Jagir,Hyderabad,"8,000",900,Semi-Furnished,No,2,
+367,2,BHK,Independent,Bandlaguda Jagir,Hyderabad,"8,000",900,Semi-Furnished,No,2,
+368,2,BHK,Independent,Bandlaguda Jagir,Hyderabad,"8,000",900,Semi-Furnished,No,2,
+369,2,BHK,Independent,Bandlaguda Jagir,Hyderabad,"8,000",900,Semi-Furnished,No,2,
+370,2,BHK,Independent,Bandlaguda Jagir,Hyderabad,"8,000",900,Semi-Furnished,No,2,
+371,2,BHK,Independent,Bandlaguda Jagir,Hyderabad,"8,000",900,Semi-Furnished,No,2,
+372,2,BHK,Independent,Bandlaguda Jagir,Hyderabad,"8,000",900,Semi-Furnished,No,2,
+373,2,BHK,Independent,Bandlaguda Jagir,Hyderabad,"8,000",900,Semi-Furnished,No,2,
+374,2,BHK,Independent,Bandlaguda Jagir,Hyderabad,"8,000",900,Semi-Furnished,No,2,
+375,2,BHK,Independent,Bandlaguda Jagir,Hyderabad,"8,000",900,Semi-Furnished,No,2,
+376,1,BHK,Apartment,Kondapur,Hyderabad,"17,900",600,Semi-Furnished,No,1,East
+377,3,BHK,Apartment,Friends Colony Hyderabad,Hyderabad,"19,500",1000,Semi-Furnished,No,2,5th
+378,3,BHK,Apartment,Prayathi Nagar,Hyderabad,"19,500",1500,Semi-Furnished,No,2,4th
+379,3,BHK,Apartment,Medinaguda,Hyderabad,"27,800",1300,Semi-Furnished,No,2,1st
+380,1,BHK,Apartment,Kondapur,Hyderabad,"13,600",690,Unfurnished,No,1,
+381,1,BHK,Apartment,Kondapur,Hyderabad,"20,000",753,Semi-Furnished,No,1,
+382,1,BHK,Apartment,Kondapur,Hyderabad,"17,000",672,Semi-Furnished,No,1,
+383,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1200,Semi-Furnished,No,2,
+384,1,BHK,Apartment,Kondapur,Hyderabad,"18,000",657,Semi-Furnished,No,1,
+385,1,BHK,Apartment,Kondapur,Hyderabad,"17,000",752,Unfurnished,No,1,
+386,1,BHK,Apartment,Kondapur,Hyderabad,"24,000",695,Furnished,No,1,
+387,1,BHK,Apartment,Kondapur,Hyderabad,"14,000",690,Unfurnished,No,1,
+388,1,RK,Studio,Kondapur,Hyderabad,"10,000",420,Unfurnished,No,1,
+389,1,BHK,Apartment,Kondapur,Hyderabad,"15,000",752,Unfurnished,No,1,
+390,1,BHK,Apartment,Kondapur,Hyderabad,"14,000",821,Unfurnished,No,1,
+391,1,BHK,Apartment,Kondapur,Hyderabad,"14,500",658,Unfurnished,No,1,
+392,1,BHK,Apartment,Kondapur,Hyderabad,"20,000",712,Semi-Furnished,No,1,
+393,1,RK,Studio,Kondapur,Hyderabad,"10,000",514,Unfurnished,No,1,
+394,1,BHK,Apartment,Kondapur,Hyderabad,"13,000",684,Unfurnished,No,1,
+395,2,BHK,Apartment,Kondapur,Hyderabad,"25,000",1200,Semi-Furnished,No,2,
+396,3,BHK,Apartment,Kondapur,Hyderabad,"43,000",1700,Semi-Furnished,No,3,
+397,2,BHK,Apartment,Kondapur,Hyderabad,"25,000",1100,Semi-Furnished,No,2,
+398,2,BHK,Apartment,Kondapur,Hyderabad,"26,000",1200,Semi-Furnished,No,2,East
+399,3,BHK,Apartment,Kondapur,Hyderabad,"34,000",1850,Semi-Furnished,No,3,East
+400,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1250,Semi-Furnished,No,2,NorthWest
+401,1,BHK,Apartment,Kondapur,Hyderabad,"17,000",650,Semi-Furnished,No,1,North
+402,3,BHK,Apartment,Nallakunta,Hyderabad,"30,000",1800,Semi-Furnished,No,3,North
+403,1,BHK,Apartment,Madhapur,Hyderabad,"20,000",600,Semi-Furnished,No,1,
+404,1,BHK,Apartment,Madhapur,Hyderabad,"22,000",800,Semi-Furnished,No,1,
+405,1,BHK,Apartment,Shilpa Hills,Hyderabad,"23,000",754,Furnished,No,1,
+406,4,BHK,Villa,Kokapet,Hyderabad,1.5,4500,Furnished,No,4,
+407,2,BHK,Apartment,Nanakramguda,Hyderabad,"39,000",1398,Semi-Furnished,No,2,
+408,3,BHK,Apartment,Nanakramguda,Hyderabad,"52,000",1560,Semi-Furnished,No,2,
+409,3,BHK,Apartment,Nanakramguda,Hyderabad,"51,000",1560,Semi-Furnished,No,2,
+410,2,BHK,Apartment,Nanakramguda,Hyderabad,"40,000",1398,Semi-Furnished,No,2,
+411,4,BHK,Apartment,Nanakramguda,Hyderabad,"66,000",2644,Semi-Furnished,No,4,
+412,3,BHK,Apartment,Nanakramguda,Hyderabad,"85,000",2214,Furnished,No,3,
+413,3,BHK,Apartment,Nanakramguda,Hyderabad,"55,000",1886,Semi-Furnished,No,3,
+414,3,BHK,Apartment,Nanakramguda,Hyderabad,"45,000",1886,Unfurnished,No,3,
+415,1,BHK,Apartment,Kondapur,Hyderabad,"18,000",752,Semi-Furnished,No,1,
+416,1,RK,Studio,Kondapur,Hyderabad,"14,000",531,Furnished,No,1,
+417,1,BHK,Apartment,Kondapur,Hyderabad,"14,500",658,Unfurnished,No,1,
+418,1,BHK,Apartment,Kondapur,Hyderabad,"20,000",712,Semi-Furnished,No,1,
+419,1,RK,Studio,Kondapur,Hyderabad,"10,000",514,Unfurnished,No,1,
+420,1,BHK,Apartment,Kondapur,Hyderabad,"17,000",672,Semi-Furnished,No,1,
+421,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1200,Semi-Furnished,No,2,
+422,1,BHK,Apartment,Kondapur,Hyderabad,"18,000",657,Semi-Furnished,No,1,
+423,1,BHK,Apartment,Kondapur,Hyderabad,"17,000",752,Unfurnished,No,1,
+424,1,BHK,Apartment,Kondapur,Hyderabad,"24,000",695,Furnished,No,1,
+425,1,RK,Studio,Kondapur,Hyderabad,"10,000",420,Unfurnished,No,1,
+426,1,BHK,Apartment,Kondapur,Hyderabad,"15,000",752,Unfurnished,No,1,
+427,1,BHK,Apartment,Kondapur,Hyderabad,"14,000",821,Unfurnished,No,1,
+428,1,BHK,Apartment,Kondapur,Hyderabad,"12,000",670,Semi-Furnished,No,1,
+429,1,BHK,Apartment,Kondapur,Hyderabad,"14,500",658,Unfurnished,No,1,
+430,1,BHK,Apartment,Kondapur,Hyderabad,"20,000",712,Semi-Furnished,No,1,
+431,1,RK,Studio,Kondapur,Hyderabad,"10,000",514,Unfurnished,No,1,
+432,1,BHK,Apartment,Kondapur,Hyderabad,"13,000",684,Unfurnished,No,1,
+433,2,BHK,Apartment,Kondapur,Hyderabad,"25,000",1200,Semi-Furnished,No,2,
+434,2,BHK,Apartment,Kondapur,Hyderabad,"25,000",1100,Semi-Furnished,No,2,
+435,2,BHK,Apartment,Kondapur,Hyderabad,"23,000",1100,Unfurnished,No,2,
+436,1,BHK,Apartment,Shilpa Hills,Hyderabad,"23,000",754,Furnished,No,1,
+437,4,BHK,Villa,Kokapet,Hyderabad,1.5,4500,Furnished,No,4,
+438,2,BHK,Apartment,Nanakramguda,Hyderabad,"39,000",1398,Semi-Furnished,No,2,
+439,3,BHK,Apartment,Nanakramguda,Hyderabad,"52,000",1560,Semi-Furnished,No,2,
+440,2,BHK,Apartment,Nanakramguda,Hyderabad,"38,000",1210,Semi-Furnished,No,2,
+441,4,BHK,Apartment,Nanakramguda,Hyderabad,"65,000",2640,Semi-Furnished,No,4,
+442,4,BHK,Apartment,Nanakramguda,Hyderabad,"60,000",2640,Semi-Furnished,No,4,
+443,2,BHK,Apartment,Nanakramguda,Hyderabad,"38,000",1200,Semi-Furnished,No,2,
+444,2,BHK,Apartment,Kondapur,Hyderabad,"45,000",1280,Semi-Furnished,No,2,
+445,1,BHK,Apartment,Madhapur,Hyderabad,"20,000",600,Semi-Furnished,No,1,
+446,1,BHK,Apartment,Madhapur,Hyderabad,"22,000",800,Semi-Furnished,No,1,
+447,1,BHK,Apartment,Kondapur,Hyderabad,"22,001",650,Semi-Furnished,No,1,
+448,4,BHK,Apartment,Nanakramguda,Hyderabad,"45,000",2640,Unfurnished,No,4,
+449,1,BHK,Apartment,Shilpa Hills,Hyderabad,"23,000",754,Furnished,No,1,
+450,4,BHK,Villa,Kokapet,Hyderabad,1.5,4500,Furnished,No,4,
+451,2,BHK,Apartment,Nanakramguda,Hyderabad,"39,000",1398,Semi-Furnished,No,2,
+452,3,BHK,Apartment,Nanakramguda,Hyderabad,"52,000",1560,Semi-Furnished,No,2,
+453,3,BHK,Apartment,Nanakramguda,Hyderabad,"51,000",1560,Semi-Furnished,No,2,
+454,2,BHK,Apartment,Nanakramguda,Hyderabad,"40,000",1398,Semi-Furnished,No,2,
+455,4,BHK,Apartment,Nanakramguda,Hyderabad,"66,000",2644,Semi-Furnished,No,4,
+456,3,BHK,Apartment,Nanakramguda,Hyderabad,"85,000",2214,Furnished,No,3,
+457,3,BHK,Apartment,Nanakramguda,Hyderabad,"55,000",1886,Semi-Furnished,No,3,
+458,3,BHK,Apartment,Nanakramguda,Hyderabad,"45,000",1886,Unfurnished,No,3,
+459,1,BHK,Apartment,Kondapur,Hyderabad,"12,000",670,Semi-Furnished,No,1,
+460,2,BHK,Apartment,Amberpet,Hyderabad,"20,000",1100,Semi-Furnished,No,2,West
+461,2,BHK,Apartment,Nallakunta,Hyderabad,"20,000",1050,Semi-Furnished,No,2,
+462,3,BHK,Apartment,Narayanguda,Hyderabad,"30,000",1500,Semi-Furnished,No,3,NorthEast
+463,2,BHK,Apartment,Narayanguda,Hyderabad,"20,000",1000,Semi-Furnished,No,2,NorthEast
+464,2,BHK,Apartment,Nallakunta,Hyderabad,"20,000",1090,Semi-Furnished,No,2,
+465,2,BHK,Apartment,Kachiguda,Hyderabad,"22,000",1050,Semi-Furnished,No,2,East
+466,2,BHK,Apartment,Narayanguda,Hyderabad,"20,000",1150,Semi-Furnished,No,2,
+467,3,BHK,Apartment,Shaikpet,Hyderabad,"63,000",1900,Semi-Furnished,No,3,West
+468,3,BHK,Apartment,Narayanguda,Hyderabad,"32,000",1700,Semi-Furnished,No,3,North
+469,2,BHK,Apartment,Nallakunta,Hyderabad,"20,000",1050,Semi-Furnished,No,3,
+470,3,BHK,Apartment,Habsiguda,Hyderabad,"37,000",1501,Semi-Furnished,No,2,West
+471,3,BHK,Villa,Jubilee Hills,Hyderabad,1.3,4000,Furnished,No,3,South
+472,3,BHK,Apartment,Kokapet,Hyderabad,"65,000",2049,Semi-Furnished,No,3,NorthEast
+473,3,BHK,Apartment,Kondapur,Hyderabad,"65,000",1855,Semi-Furnished,No,3,NorthEast
+474,3,BHK,Apartment,Kokapet,Hyderabad,"55,000",2615,Furnished,No,3,NorthEast
+475,2,BHK,Apartment,Gachibowli,Hyderabad,"60,000",892,Furnished,No,2,NorthEast
+476,3,BHK,Apartment,Jubilee Hills,Hyderabad,1.1,3300,Semi-Furnished,No,3,NorthEast
+477,3,BHK,Apartment,Begumpet,Hyderabad,"33,000",1800,Semi-Furnished,No,4,East
+478,2,BHK,Apartment,Begumpet,Hyderabad,"25,000",1200,Semi-Furnished,No,2,North
+479,3,BHK,Apartment,Tarnaka,Hyderabad,"30,000",1750,Semi-Furnished,No,3,East
+480,2,BHK,Apartment,Sanath Nagar,Hyderabad,"18,000",1254,Semi-Furnished,No,2,East
+481,2,BHK,Apartment,Gachibowli,Hyderabad,"40,000",1110,Semi-Furnished,No,2,NorthEast
+482,2,BHK,Apartment,Gowlidody,Hyderabad,"26,000",1050,Furnished,No,2,NorthEast
+483,4,BHK,Villa,Nallagandla Gachibowli,Hyderabad,"90,000",4000,Semi-Furnished,No,4,NorthEast
+484,3,BHK,Apartment,Hitech City,Hyderabad,"50,000",1700,Semi-Furnished,No,3,NorthEast
+485,2,BHK,Villa,Kukatpally,Hyderabad,"55,000",2750,Semi-Furnished,No,2,NorthEast
+486,3,BHK,Apartment,Kukatpally,Hyderabad,1.2,3400,Furnished,No,3,NorthEast
+487,3,BHK,Apartment,Nanakramguda,Hyderabad,"70,000",3300,Semi-Furnished,No,3,NorthEast
+488,3,BHK,Apartment,Kokapet,Hyderabad,"60,000",2185,Semi-Furnished,No,3,NorthEast
+489,2,BHK,Apartment,Kondapur,Hyderabad,"60,000",1840,Semi-Furnished,No,2,NorthEast
+490,4,BHK,Villa,Appa Junction Peerancheru,Hyderabad,"75,000",3731,Semi-Furnished,No,4,NorthEast
+491,5,BHK,Villa,Kukatpally,Hyderabad,,,Semi-Furnished,No,5,NorthEast
+492,3,BHK,Apartment,Jubilee Hills,Hyderabad,1.1,3300,Semi-Furnished,No,3,NorthEast
+493,3,BHK,Apartment,Begumpet,Hyderabad,"33,000",1800,Semi-Furnished,No,4,East
+494,2,BHK,Apartment,Begumpet,Hyderabad,"25,000",1200,Semi-Furnished,No,2,North
+495,3,BHK,Apartment,Tarnaka,Hyderabad,"30,000",1750,Semi-Furnished,No,3,East
+496,3,BHK,Apartment,Kokapet,Hyderabad,"65,000",2049,Semi-Furnished,No,3,NorthEast
+497,2,BHK,Apartment,Gopanpally,Hyderabad,"60,000",1725,Furnished,No,2,NorthEast
+498,2,BHK,Apartment,Amberpet,Hyderabad,"20,000",1100,Semi-Furnished,No,2,West
+499,2,BHK,Apartment,Nallakunta,Hyderabad,"20,000",1050,Semi-Furnished,No,2,
+500,3,BHK,Apartment,Narayanguda,Hyderabad,"30,000",1500,Semi-Furnished,No,3,NorthEast
+501,2,BHK,Apartment,Narayanguda,Hyderabad,"20,000",1000,Semi-Furnished,No,2,NorthEast
+502,2,BHK,Apartment,Nallakunta,Hyderabad,"20,000",1090,Semi-Furnished,No,2,
+503,2,BHK,Apartment,Kachiguda,Hyderabad,"22,000",1050,Semi-Furnished,No,2,East
+504,2,BHK,Apartment,Narayanguda,Hyderabad,"20,000",1150,Semi-Furnished,No,2,
+505,3,BHK,Apartment,Shaikpet,Hyderabad,"63,000",1900,Semi-Furnished,No,3,West
+506,2,BHK,Apartment,Nallakunta,Hyderabad,"20,000",1000,Semi-Furnished,No,2,NorthWest
+507,2,BHK,Apartment,Kachiguda,Hyderabad,"20,000",1020,Semi-Furnished,No,2,North
+508,3,BHK,Apartment,Narayanguda,Hyderabad,"32,000",1700,Semi-Furnished,No,3,North
+509,2,BHK,Apartment,Nallakunta,Hyderabad,"20,000",1050,Semi-Furnished,No,3,
+510,2,BHK,Apartment,Kondapur,Hyderabad,"25,000",1253,Semi-Furnished,No,2,
+511,3,BHK,Apartment,Kondapur,Hyderabad,"65,000",1855,Semi-Furnished,No,3,NorthEast
+512,3,BHK,Apartment,Kokapet,Hyderabad,"55,000",2615,Furnished,No,3,NorthEast
+513,2,BHK,Apartment,Gachibowli,Hyderabad,"60,000",892,Furnished,No,2,NorthEast
+514,3,BHK,Apartment,Kondapur,Hyderabad,"34,000",1710,Semi-Furnished,No,3,NorthEast
+515,3,BHK,Apartment,Tellapur,Hyderabad,"45,000",1840,Semi-Furnished,No,3,NorthEast
+516,3,BHK,Apartment,Kondapur,Hyderabad,"65,000",1700,Semi-Furnished,No,3,NorthEast
+517,2,BHK,Apartment,Kondapur,Hyderabad,"60,000",1325,Semi-Furnished,No,2,East
+518,1,RK,Studio,Kondapur,Hyderabad,"11,500",543,Semi-Furnished,No,1,
+519,4,BHK,Independent,Jubilee Hills,Hyderabad,1.3,3400,Semi-Furnished,No,4,East
+520,1,BHK,Apartment,Kondapur,Hyderabad,"15,500",753,Semi-Furnished,No,1,
+521,3,BHK,Apartment,Amberpet,Hyderabad,"27,000",1700,Semi-Furnished,No,3,
+522,3,BHK,Apartment,Nallagandla Gachibowli,Hyderabad,"50,000",1700,Furnished,No,3,NorthEast
+523,1,BHK,Independent,Amberpet,Hyderabad,"10,000",565,Semi-Furnished,No,1,NorthEast
+524,3,BHK,Apartment,Nallagandla Gachibowli,Hyderabad,"42,000",1325,Furnished,No,3,East
+525,2,BHK,Apartment,Kondapur,Hyderabad,"27,000",1250,Unfurnished,No,2,East
+526,3,BHK,Apartment,Kondapur,Hyderabad,"47,000",1700,Furnished,No,3,East
+527,3,BHK,Apartment,Tarnaka,Hyderabad,"30,000",1800,Semi-Furnished,No,3,West
+528,3,BHK,Apartment,Uppal Kalan,Hyderabad,"28,000",1550,Semi-Furnished,No,3,East
+529,2,BHK,Apartment,Tarnaka,Hyderabad,"20,000",1150,Semi-Furnished,No,2,
+530,2,BHK,Apartment,Tarnaka,Hyderabad,"20,000",1200,Semi-Furnished,No,2,East
+531,2,BHK,Apartment,Nacharam,Hyderabad,"22,000",1200,Semi-Furnished,No,2,West
+532,2,BHK,Apartment,Tarnaka,Hyderabad,"15,000",1100,Semi-Furnished,No,2,West
+533,2,BHK,Apartment,Tarnaka,Hyderabad,"20,000",1200,Semi-Furnished,No,2,West
+534,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1250,Semi-Furnished,No,2,East
+535,3,BHK,Apartment,Kondapur,Hyderabad,"33,000",1850,Semi-Furnished,No,3,North
+536,1,BHK,Apartment,Kondapur,Hyderabad,"18,000",750,Semi-Furnished,No,1,East
+537,2,BHK,Apartment,Kondapur,Hyderabad,"30,000",1350,Semi-Furnished,No,2,West
+538,2,BHK,Apartment,Kondapur,Hyderabad,"30,000",1350,Semi-Furnished,No,2,NorthWest
+539,1,BHK,Apartment,Kondapur,Hyderabad,"20,000",750,Furnished,No,1,North
+540,4,BHK,Apartment,Kokapet,Hyderabad,"75,000",2050,Semi-Furnished,No,3,NorthEast
+541,3,BHK,Apartment,Tellapur,Hyderabad,"60,000",2083,Semi-Furnished,No,3,NorthEast
+542,3,BHK,Apartment,Hitech City,Hyderabad,"68,000",1730,Semi-Furnished,No,3,NorthEast
+543,4,BHK,Apartment,Hitech City,Hyderabad,"77,000",2692,Semi-Furnished,No,4,NorthEast
+544,2,BHK,Apartment,Kompally,Hyderabad,"25,000",1046,Semi-Furnished,No,2,NorthEast
+545,3,BHK,Apartment,Gachibowli,Hyderabad,"65,000",1575,Semi-Furnished,No,2,NorthEast
+546,3,BHK,Apartment,Tellapur,Hyderabad,"60,000",2083,Furnished,No,3,NorthEast
+547,1,BHK,Apartment,Kondapur,Hyderabad,"23,000",700,Furnished,No,1,NorthEast
+548,3,BHK,Apartment,Gachibowli,Hyderabad,"65,000",1600,Semi-Furnished,No,2,NorthEast
+549,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1250,Semi-Furnished,No,2,East
+550,3,BHK,Apartment,Kondapur,Hyderabad,"33,000",1850,Semi-Furnished,No,3,North
+551,1,BHK,Apartment,Kondapur,Hyderabad,"18,000",750,Semi-Furnished,No,1,East
+552,2,BHK,Apartment,Kondapur,Hyderabad,"30,000",1350,Semi-Furnished,No,2,West
+553,2,BHK,Apartment,Kondapur,Hyderabad,"30,000",1350,Semi-Furnished,No,2,NorthWest
+554,1,BHK,Apartment,Kondapur,Hyderabad,"20,000",750,Furnished,No,1,North
+555,2,BHK,Apartment,Kondapur,Hyderabad,"26,000",1150,Semi-Furnished,No,2,NorthWest
+556,3,BHK,Apartment,Kondapur,Hyderabad,"35,000",1850,Semi-Furnished,No,3,East
+557,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1250,Semi-Furnished,No,2,East
+558,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1200,Semi-Furnished,No,1,East
+559,3,BHK,Apartment,Kondapur,Hyderabad,"32,000",1650,Semi-Furnished,No,3,NorthEast
+560,3,BHK,Apartment,Uppal Kalan,Hyderabad,"28,000",1550,Semi-Furnished,No,3,East
+561,2,BHK,Apartment,Tarnaka,Hyderabad,"20,000",1150,Semi-Furnished,No,2,
+562,2,BHK,Apartment,Tarnaka,Hyderabad,"20,000",1200,Semi-Furnished,No,2,East
+563,2,BHK,Apartment,Nacharam,Hyderabad,"22,000",1200,Semi-Furnished,No,2,West
+564,2,BHK,Apartment,Tarnaka,Hyderabad,"15,000",1100,Semi-Furnished,No,2,West
+565,2,BHK,Apartment,Tarnaka,Hyderabad,"20,000",1200,Semi-Furnished,No,2,West
+566,1,BHK,Apartment,Ameerpet,Hyderabad,"12,000",450,Unfurnished,No,1,West
+567,3,BHK,Apartment,Kokapet,Hyderabad,"60,000",2600,Semi-Furnished,No,3,NorthEast
+568,3,BHK,Apartment,Kukatpally,Hyderabad,"60,000",1931,Semi-Furnished,No,3,NorthEast
+569,2,BHK,Apartment,Kukatpally,Hyderabad,"40,000",1450,Semi-Furnished,No,2,NorthEast
+570,3,BHK,Apartment,Hitech City,Hyderabad,"50,000",1136,Semi-Furnished,No,3,NorthEast
+571,3,BHK,Apartment,Kondapur,Hyderabad,"34,000",1710,Semi-Furnished,No,3,NorthEast
+572,3,BHK,Apartment,Kokapet,Hyderabad,"65,000",2049,Semi-Furnished,No,3,NorthEast
+573,3,BHK,Apartment,Himayat Nagar,Hyderabad,"30,000",1570,Semi-Furnished,No,3,
+574,3,BHK,Apartment,Kachiguda,Hyderabad,"26,000",1520,Semi-Furnished,No,3,
+575,1,BHK,Independent,Amberpet,Hyderabad,"10,000",565,Semi-Furnished,No,1,NorthEast
+576,3,BHK,Apartment,Nallagandla Gachibowli,Hyderabad,"42,000",1325,Furnished,No,3,East
+577,3,BHK,Apartment,Jubilee Hills,Hyderabad,1.1,3300,Semi-Furnished,No,3,NorthEast
+578,3,BHK,Apartment,Begumpet,Hyderabad,"33,000",1800,Semi-Furnished,No,4,East
+579,2,BHK,Apartment,Begumpet,Hyderabad,"25,000",1200,Semi-Furnished,No,2,North
+580,2,BHK,Apartment,Kondapur,Hyderabad,"31,000",1250,Semi-Furnished,No,1,
+581,2,BHK,Apartment,Kondapur,Hyderabad,"29,000",1250,Semi-Furnished,No,1,
+582,1,BHK,Apartment,Kondapur,Hyderabad,"17,500",750,Semi-Furnished,No,1,
+583,1,BHK,Apartment,Raghavendra Colony Manikonda,Hyderabad,"17,000",750,Semi-Furnished,No,1,
+584,1,BHK,Apartment,Kondapur,Hyderabad,"23,000",750,Furnished,No,1,
+585,1,BHK,Apartment,Kondapur,Hyderabad,"23,000",750,Furnished,No,1,
+586,1,BHK,Apartment,Kondapur,Hyderabad,"15,000",750,Unfurnished,No,1,
+587,1,BHK,Apartment,Kondapur,Hyderabad,"21,000",1300,Furnished,No,1,
+588,1,BHK,Apartment,Kondapur,Hyderabad,"21,000",750,Furnished,No,1,
+589,1,BHK,Apartment,Kondapur,Hyderabad,"23,500",750,Furnished,No,1,
+590,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1300,Semi-Furnished,No,1,
+591,1,BHK,Apartment,Kondapur,Hyderabad,"25,000",750,Furnished,No,1,
+592,3,BHK,Apartment,Kondapur,Hyderabad,"38,000",2750,Semi-Furnished,No,2,
+593,1,BHK,Apartment,Raghavendra Colony Manikonda,Hyderabad,"21,500",750,Furnished,No,1,
+594,1,BHK,Apartment,Kondapur,Hyderabad,"28,000",1250,Semi-Furnished,No,1,
+595,1,BHK,Apartment,Kondapur,Hyderabad,"16,500",750,Semi-Furnished,No,1,
+596,2,BHK,Apartment,Raghavendra Colony Manikonda,Hyderabad,"28,500",1250,Semi-Furnished,No,1,
+597,2,BHK,Apartment,Raghavendra Colony Manikonda,Hyderabad,"31,000",1250,Semi-Furnished,No,1,
+598,1,BHK,Apartment,Kondapur,Hyderabad,"21,000",750,Semi-Furnished,No,1,
+599,1,BHK,Apartment,Kondapur,Hyderabad,"21,000",750,Furnished,No,1,
+600,3,BHK,Apartment,Hitech City,Hyderabad,"68,000",1730,Semi-Furnished,No,3,NorthEast
+601,4,BHK,Apartment,Hitech City,Hyderabad,"77,000",2692,Semi-Furnished,No,4,NorthEast
+602,2,BHK,Apartment,Kompally,Hyderabad,"25,000",1046,Semi-Furnished,No,2,NorthEast
+603,3,BHK,Apartment,Gachibowli,Hyderabad,"65,000",1575,Semi-Furnished,No,2,NorthEast
+604,3,BHK,Apartment,Tellapur,Hyderabad,"60,000",2083,Furnished,No,3,NorthEast
+605,1,BHK,Apartment,Kondapur,Hyderabad,"23,000",700,Furnished,No,1,NorthEast
+606,1,BHK,Apartment,Kondapur,Hyderabad,"15,500",753,Semi-Furnished,No,1,
+607,3,BHK,Apartment,Gachibowli,Hyderabad,"65,000",1600,Semi-Furnished,No,2,NorthEast
+608,4,BHK,Independent,Jubilee Hills,Hyderabad,1.3,3400,Semi-Furnished,No,4,East
+609,3,BHK,Independent,Jubilee Hills,Hyderabad,1.25,3200,Semi-Furnished,No,3,West
+610,2,BHK,Independent,Shamshabad,Hyderabad,"14,000",1100,Semi-Furnished,No,2,East
+611,2,BHK,Apartment,Shamshabad,Hyderabad,"12,500",1150,Semi-Furnished,No,2,North
+612,1,BHK,Apartment,Kondapur,Hyderabad,"16,500",700,Semi-Furnished,No,1,NorthEast
+613,3,BHK,Apartment,Nallagandla Gachibowli,Hyderabad,"50,000",1700,Furnished,No,3,NorthEast
+614,2,BHK,Independent,Shamshabad,Hyderabad,"24,000",1200,Furnished,No,2,North
+615,2,BHK,Apartment,Kondapur,Hyderabad,"27,000",1245,Semi-Furnished,No,2,
+616,3,BHK,Apartment,Tellapur,Hyderabad,"45,000",1840,Semi-Furnished,No,3,NorthEast
+617,3,BHK,Apartment,Kondapur,Hyderabad,"65,000",1700,Semi-Furnished,No,3,NorthEast
+618,2,BHK,Apartment,Kondapur,Hyderabad,"60,000",1325,Semi-Furnished,No,2,East
+619,1,RK,Studio,Kondapur,Hyderabad,"11,500",543,Semi-Furnished,No,1,
+620,1,BHK,Apartment,Kondapur,Hyderabad,"21,000",1300,Furnished,No,1,
+621,1,BHK,Apartment,Kondapur,Hyderabad,"21,000",750,Furnished,No,1,
+622,1,BHK,Apartment,Kondapur,Hyderabad,"23,500",750,Furnished,No,1,
+623,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1300,Semi-Furnished,No,1,
+624,1,BHK,Apartment,Kondapur,Hyderabad,"25,000",750,Furnished,No,1,
+625,3,BHK,Apartment,Kondapur,Hyderabad,"38,000",2750,Semi-Furnished,No,2,
+626,1,BHK,Apartment,Raghavendra Colony Manikonda,Hyderabad,"21,500",750,Furnished,No,1,
+627,1,BHK,Apartment,Kondapur,Hyderabad,"28,000",1250,Semi-Furnished,No,1,
+628,1,BHK,Apartment,Kondapur,Hyderabad,"16,500",750,Semi-Furnished,No,1,
+629,2,BHK,Apartment,Raghavendra Colony Manikonda,Hyderabad,"28,500",1250,Semi-Furnished,No,1,
+630,2,BHK,Apartment,Raghavendra Colony Manikonda,Hyderabad,"31,000",1250,Semi-Furnished,No,1,
+631,1,BHK,Apartment,Kondapur,Hyderabad,"21,000",750,Semi-Furnished,No,1,
+632,1,BHK,Apartment,Kondapur,Hyderabad,"21,000",750,Furnished,No,1,
+633,1,BHK,Apartment,Begumpet,Hyderabad,"11,000",550,Unfurnished,No,1,
+634,2,BHK,Apartment,Ameerpet,Hyderabad,"18,500",1084,Semi-Furnished,No,2,East
+635,1,BHK,Apartment,Yousufguda,Hyderabad,"10,500",684,Semi-Furnished,No,1,North
+636,2,BHK,Apartment,Kondapur,Hyderabad,"24,900",1250,Semi-Furnished,No,2,
+637,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1150,Semi-Furnished,No,1,North
+638,2,BHK,Apartment,Kondapur,Hyderabad,"26,500",1200,Semi-Furnished,No,1,North
+639,2,BHK,Apartment,Kondapur,Hyderabad,"38,000",1250,Semi-Furnished,No,1,North
+640,2,BHK,Apartment,Himayat Nagar,Hyderabad,"24,001",1150,Semi-Furnished,No,2,
+641,2,BHK,Apartment,Himayat Nagar,Hyderabad,"24,000",1100,Semi-Furnished,No,2,
+642,1,BHK,Apartment,Kondapur,Hyderabad,"12,998",680,Unfurnished,No,1,South
+643,1,BHK,Apartment,Kondapur,Hyderabad,"15,001",680,Semi-Furnished,No,1,South
+644,1,BHK,Apartment,Sanjeeva Reddy Nagar,Hyderabad,"12,000",600,Semi-Furnished,No,1,East
+645,1,BHK,Apartment,Sanjeeva Reddy Nagar,Hyderabad,"11,000",550,Semi-Furnished,No,1,East
+646,1,BHK,Apartment,Balakampet,Hyderabad,"13,000",550,Semi-Furnished,No,1,East
+647,1,BHK,Apartment,Ameerpet,Hyderabad,"10,500",550,Semi-Furnished,No,1,East
+648,2,BHK,Apartment,Jubilee Hills,Hyderabad,"40,000",1000,Furnished,No,2,North
+649,1,BHK,Apartment,Ameerpet,Hyderabad,"10,000",550,Semi-Furnished,No,1,North
+650,1,BHK,Apartment,Ameerpet,Hyderabad,"11,000",600,Semi-Furnished,No,1,East
+651,1,BHK,Apartment,Ameerpet,Hyderabad,"10,500",550,Semi-Furnished,No,1,
+652,2,BHK,Apartment,Jubilee Hills,Hyderabad,"38,000",1100,Furnished,No,2,North
+653,2,BHK,Apartment,Jubilee Hills,Hyderabad,"35,000",1100,Furnished,No,2,East
+654,1,BHK,Apartment,Jubilee Hills,Hyderabad,"15,000",550,Unfurnished,No,1,North
+655,3,BHK,Apartment,Jubilee Hills,Hyderabad,"45,000",2000,Furnished,No,3,NorthEast
+656,1,BHK,Apartment,Jubilee Hills,Hyderabad,"13,000",500,Unfurnished,No,1,East
+657,3,BHK,Apartment,Jubilee Hills,Hyderabad,"55,000",2000,Semi-Furnished,No,3,East
+658,1,BHK,Apartment,Jubilee Hills,Hyderabad,"15,000",550,Unfurnished,No,1,West
+659,3,BHK,Apartment,Jubilee Hills,Hyderabad,"55,000",2200,Semi-Furnished,No,3,East
+660,2,BHK,Apartment,Jubilee Hills,Hyderabad,"30,000",1050,Semi-Furnished,No,2,NorthEast
+661,2,BHK,Apartment,Madhapur,Hyderabad,"35,000",1100,Semi-Furnished,No,2,East
+662,2,BHK,Apartment,Jubilee Hills,Hyderabad,"25,000",1000,Semi-Furnished,No,2,North
+663,2,BHK,Apartment,Madhapur,Hyderabad,"30,000",1050,Semi-Furnished,No,2,NorthEast
+664,3,BHK,Apartment,Madhapur,Hyderabad,1.3,3300,Semi-Furnished,No,3,
+665,2,BHK,Apartment,Kondapur,Hyderabad,"36,000",1200,Furnished,No,2,North
+666,1,BHK,Apartment,Kondapur,Hyderabad,"18,000",750,Unfurnished,No,1,
+667,1,BHK,Apartment,Kondapur,Hyderabad,"18,500",750,Unfurnished,No,1,
+668,1,BHK,Apartment,Kondapur,Hyderabad,"23,000",750,Furnished,No,1,
+669,1,RK,Studio,Kondapur,Hyderabad,"21,000",750,Furnished,No,1,
+670,1,BHK,Apartment,Kondapur,Hyderabad,"21,000",750,Furnished,No,1,
+671,1,BHK,Apartment,Kondapur,Hyderabad,"21,000",750,Furnished,No,1,
+672,1,BHK,Apartment,Madhapur,Hyderabad,"25,000",600,Furnished,No,1,
+673,2,BHK,Apartment,Kondapur,Hyderabad,"26,500",1350,Unfurnished,No,1,
+674,1,BHK,Apartment,Balakampet,Hyderabad,"12,000",641,Semi-Furnished,No,1,
+675,1,BHK,Apartment,Balanagar,Hyderabad,"11,500",684,Semi-Furnished,No,1,NorthEast
+676,1,BHK,Apartment,Sanjeeva Reddy Nagar,Hyderabad,"10,500",554,Semi-Furnished,No,1,North
+677,3,BHK,Apartment,Madhapur,Hyderabad,,,Furnished,No,3,
+678,1,BHK,Apartment,Sanjeeva Reddy Nagar,Hyderabad,"9,800",700,Semi-Furnished,No,1,East
+679,1,BHK,Apartment,Sanjeeva Reddy Nagar,Hyderabad,"15,000",590,Furnished,No,1,North
+680,1,BHK,Apartment,Kondapur,Hyderabad,"21,000",750,Furnished,No,1,
+681,1,BHK,Apartment,Kondapur,Hyderabad,"21,000",750,Furnished,No,1,
+682,1,BHK,Apartment,Madhapur,Hyderabad,"25,000",600,Furnished,No,1,
+683,2,BHK,Apartment,Kondapur,Hyderabad,"26,500",1350,Unfurnished,No,1,
+684,1,BHK,Apartment,Balakampet,Hyderabad,"12,000",641,Semi-Furnished,No,1,
+685,1,BHK,Apartment,Balanagar,Hyderabad,"11,500",684,Semi-Furnished,No,1,NorthEast
+686,1,BHK,Apartment,Sanjeeva Reddy Nagar,Hyderabad,"10,500",554,Semi-Furnished,No,1,North
+687,3,BHK,Apartment,Madhapur,Hyderabad,,,Furnished,No,3,
+688,1,BHK,Apartment,Sanjeeva Reddy Nagar,Hyderabad,"9,800",700,Semi-Furnished,No,1,East
+689,1,BHK,Apartment,Sanjeeva Reddy Nagar,Hyderabad,"15,000",590,Furnished,No,1,North
+690,3,BHK,Apartment,Madhapur,Hyderabad,2.2,3400,Semi-Furnished,No,3,
+691,2,BHK,Apartment,Kondapur,Hyderabad,"33,000",1200,Furnished,No,2,East
+692,3,BHK,Apartment,Kondapur,Hyderabad,"46,000",1800,Semi-Furnished,No,3,East
+693,3,BHK,Apartment,Madhapur,Hyderabad,"60,000",2000,Semi-Furnished,No,3,
+694,3,BHK,Independent,Madhapur,Hyderabad,"80,000",2600,Furnished,No,3,
+695,3,BHK,Apartment,Hitech City,Hyderabad,"60,000",2200,Furnished,No,3,
+696,3,BHK,Apartment,Madhapur,Hyderabad,"50,000",1800,Semi-Furnished,No,3,
+697,4,BHK,Apartment,Madhapur,Hyderabad,1.9,3000,Semi-Furnished,No,4,
+698,2,BHK,Apartment,Hitech City,Hyderabad,"42,000",1650,Furnished,No,2,
+699,3,BHK,Apartment,Madhapur,Hyderabad,"45,000",2000,Semi-Furnished,No,2,East
+700,1,BHK,Apartment,West Marredpally,Hyderabad,"11,000",540,Unfurnished,No,1,
+701,2,BHK,Independent,Sanjeeva Reddy Nagar,Hyderabad,"15,000",1200,Semi-Furnished,No,2,North
+702,1,BHK,Independent,Balkampet,Hyderabad,"12,000",650,Semi-Furnished,No,1,East
+703,2,BHK,Apartment,Sanjeeva Reddy Nagar,Hyderabad,"20,000",1310,Semi-Furnished,No,2,North
+704,2,BHK,Apartment,Yellareddy Guda,Hyderabad,"22,000",1340,Semi-Furnished,No,2,East
+705,2,BHK,Independent,Sanjeeva Reddy Nagar,Hyderabad,"25,000",1350,Semi-Furnished,No,2,East
+706,2,BHK,Apartment,Ameerpet,Hyderabad,"18,000",1170,Semi-Furnished,No,2,East
+707,1,BHK,Independent,Ameerpet,Hyderabad,"12,000",750,Semi-Furnished,No,1,East
+708,1,BHK,Independent,Yousufguda,Hyderabad,"13,000",812,Semi-Furnished,No,1,West
+709,1,BHK,Apartment,Sanjeeva Reddy Nagar,Hyderabad,"12,000",600,Semi-Furnished,No,1,East
+710,1,BHK,Apartment,Sanjeeva Reddy Nagar,Hyderabad,"11,000",550,Semi-Furnished,No,1,East
+711,4,BHK,Apartment,Kokapet,Hyderabad,"70,000",2600,Semi-Furnished,No,4,NorthEast
+712,2,BHK,Apartment,Nallakunta,Hyderabad,"15,000",1100,Semi-Furnished,No,3,West
+713,5,BHK,Apartment,West Marredpally,Hyderabad,"52,000",5000,Furnished,No,5,East
+714,1,BHK,Apartment,Kondapur,Hyderabad,"15,000",654,Unfurnished,No,1,North
+715,3,BHK,Apartment,LB Nagar,Hyderabad,"32,500",1650,Semi-Furnished,No,3,West
+716,2,BHK,Apartment,Kondapur,Hyderabad,"24,700",1300,Semi-Furnished,No,2,
+717,2,BHK,Apartment,East Marredpally,Hyderabad,"22,000",1250,Furnished,No,2,
+718,3,BHK,Apartment,Banjara Hills,Hyderabad,"40,000",1600,Semi-Furnished,No,2,
+719,3,BHK,Apartment,Banjara Hills,Hyderabad,1.25,2800,Semi-Furnished,No,2,West
+720,3,BHK,Apartment,Banjara Hills,Hyderabad,"65,000",2800,Furnished,No,2,East
+721,2,BHK,Apartment,Banjara Hills,Hyderabad,"42,000",1300,Furnished,No,1,North
+722,3,BHK,Apartment,Banjara Hills,Hyderabad,"55,000",2000,Semi-Furnished,No,2,
+723,3,BHK,Apartment,Banjara Hills,Hyderabad,"45,000",2300,Semi-Furnished,No,2,North
+724,3,BHK,Apartment,Banjara Hills,Hyderabad,"43,000",2300,Semi-Furnished,No,2,East
+725,3,BHK,Apartment,Banjara Hills,Hyderabad,"50,000",2000,Semi-Furnished,No,2,East
+726,3,BHK,Apartment,Banjara Hills,Hyderabad,"75,000",2150,Furnished,No,2,
+727,1,BHK,Apartment,Kondapur,Hyderabad,"23,500",750,Furnished,No,1,NorthEast
+728,3,BHK,Apartment,Himayat Nagar,Hyderabad,"45,001",1800,Semi-Furnished,No,3,
+729,3,BHK,Apartment,Himayat Nagar,Hyderabad,"45,000",1800,Semi-Furnished,No,3,
+730,2,BHK,Apartment,Himayat Nagar,Hyderabad,"24,001",1150,Semi-Furnished,No,2,
+731,2,BHK,Apartment,Himayat Nagar,Hyderabad,"24,000",1100,Semi-Furnished,No,2,
+732,2,BHK,Apartment,Jubilee Hills,Hyderabad,"35,000",1080,Semi-Furnished,No,2,North
+733,2,BHK,Apartment,Jubilee Hills,Hyderabad,"25,000",1050,Semi-Furnished,No,2,North
+734,3,BHK,Apartment,Jubilee Hills,Hyderabad,"55,000",2600,Semi-Furnished,No,3,North
+735,3,BHK,Apartment,Jubilee Hills,Hyderabad,"45,000",2500,Furnished,No,3,East
+736,3,BHK,Apartment,Banjara Hills,Hyderabad,"55,000",2500,Furnished,No,3,NorthEast
+737,4,BHK,Apartment,Banjara Hills,Hyderabad,"75,000",3500,Semi-Furnished,No,4,NorthEast
+738,3,BHK,Apartment,Shaikpet,Hyderabad,"45,000",2100,Furnished,No,3,NorthEast
+739,3,BHK,Apartment,Banjara Hills,Hyderabad,"75,000",2500,Furnished,No,3,East
+740,1,BHK,Apartment,Kondapur,Hyderabad,"14,566",800,Semi-Furnished,No,1,
+741,1,BHK,Apartment,Kondapur,Hyderabad,"14,551",800,Semi-Furnished,No,1,
+742,1,BHK,Apartment,Kondapur,Hyderabad,"16,400",800,Semi-Furnished,No,1,
+743,1,BHK,Apartment,Kondapur,Hyderabad,"16,000",800,Semi-Furnished,No,1,
+744,1,BHK,Apartment,Kondapur,Hyderabad,"24,000",750,Furnished,No,1,NorthEast
+745,1,BHK,Apartment,Kondapur,Hyderabad,"16,000",710,Semi-Furnished,No,1,NorthEast
+746,1,BHK,Apartment,Kondapur,Hyderabad,"27,000",1380,Semi-Furnished,No,2,NorthEast
+747,3,BHK,Independent,Banjara Hills,Hyderabad,"75,000",2500,Furnished,No,2,West
+748,1,BHK,Apartment,Kondapur,Hyderabad,"15,003",680,Semi-Furnished,No,1,South
+749,2,BHK,Apartment,Jubilee Hills,Hyderabad,"35,000",1080,Semi-Furnished,No,2,North
+750,2,BHK,Apartment,Jubilee Hills,Hyderabad,"25,000",1050,Semi-Furnished,No,2,North
+751,3,BHK,Apartment,Jubilee Hills,Hyderabad,"55,000",2600,Semi-Furnished,No,3,North
+752,3,BHK,Apartment,Jubilee Hills,Hyderabad,"45,000",2500,Furnished,No,3,East
+753,3,BHK,Apartment,Banjara Hills,Hyderabad,"55,000",2500,Furnished,No,3,NorthEast
+754,4,BHK,Apartment,Banjara Hills,Hyderabad,"75,000",3500,Semi-Furnished,No,4,NorthEast
+755,3,BHK,Apartment,Shaikpet,Hyderabad,"45,000",2100,Furnished,No,3,NorthEast
+756,3,BHK,Apartment,Banjara Hills,Hyderabad,"75,000",2500,Furnished,No,3,East
+757,3,BHK,Apartment,Banjara Hills,Hyderabad,"75,000",3000,Semi-Furnished,No,3,
+758,1,BHK,Apartment,Jubilee Hills,Hyderabad,"18,000",600,Semi-Furnished,No,1,East
+759,3,BHK,Apartment,Jubilee Hills,Hyderabad,"35,000",1600,Semi-Furnished,No,3,North
+760,1,BHK,Apartment,Jubilee Hills,Hyderabad,"15,000",500,Semi-Furnished,No,1,East
+761,1,BHK,Apartment,Jubilee Hills,Hyderabad,"13,000",550,Unfurnished,No,1,South
+762,1,BHK,Apartment,Jubilee Hills,Hyderabad,"12,000",500,Semi-Furnished,No,1,
+763,3,BHK,Apartment,Nallakunta,Hyderabad,"30,000",2000,Semi-Furnished,No,3,East
+764,2,BHK,Apartment,Nallakunta,Hyderabad,"16,000",1200,Semi-Furnished,No,2,East
+765,2,BHK,Apartment,Jubilee Hills,Hyderabad,"27,000",1100,Semi-Furnished,No,2,North
+766,3,BHK,Apartment,Madhura Nagar,Hyderabad,"40,000",1700,Semi-Furnished,No,3,East
+767,2,BHK,Apartment,Jubilee Hills,Hyderabad,"25,000",1050,Semi-Furnished,No,2,North
+768,3,BHK,Apartment,Jubilee Hills,Hyderabad,"60,000",2000,Semi-Furnished,No,3,
+769,1,BHK,Apartment,Jubilee Hills,Hyderabad,"16,000",600,Semi-Furnished,No,1,East
+770,3,BHK,Apartment,Banjara Hills,Hyderabad,"70,000",2500,Semi-Furnished,No,3,
+771,3,BHK,Apartment,Jubilee Hills,Hyderabad,"65,000",2300,Semi-Furnished,No,3,North
+772,3,BHK,Apartment,Banjara Hills,Hyderabad,"55,000",2000,Semi-Furnished,No,3,North
+773,3,BHK,Apartment,Banjara Hills,Hyderabad,"80,000",3000,Semi-Furnished,No,3,East
+774,3,BHK,Apartment,Banjara Hills,Hyderabad,"60,000",2500,Semi-Furnished,No,3,NorthEast
+775,2,BHK,Apartment,Jubilee Hills,Hyderabad,"30,000",1000,Semi-Furnished,No,2,South
+776,2,BHK,Apartment,Madhapur,Hyderabad,"32,000",1060,Semi-Furnished,No,2,NorthWest
+777,2,BHK,Apartment,Madhapur,Hyderabad,"35,000",1050,Furnished,No,2,NorthEast
+778,3,BHK,Apartment,Banjara Hills,Hyderabad,"60,000",2000,Semi-Furnished,No,3,East
+779,2,BHK,Apartment,Nacharam,Hyderabad,"20,000",1100,Semi-Furnished,No,2,
+780,1,BHK,Apartment,Sanjeeva Reddy Nagar,Hyderabad,"12,000",600,Semi-Furnished,No,1,East
+781,1,BHK,Apartment,Sanjeeva Reddy Nagar,Hyderabad,"11,000",550,Semi-Furnished,No,1,East
+782,3,BHK,Apartment,Madhapur,Hyderabad,"70,000",1450,Semi-Furnished,No,3,North
+783,1,BHK,Apartment,Kondapur,Hyderabad,"21,000",700,Furnished,No,1,
+784,2,BHK,Apartment,Gachibowli,Hyderabad,"29,000",1200,Furnished,No,2,
+785,4,BHK,Apartment,Banjara Hills,Hyderabad,"75,000",3000,Semi-Furnished,No,2,East
+786,3,BHK,Apartment,Banjara Hills,Hyderabad,"60,000",2200,Semi-Furnished,No,2,North
+787,2,BHK,Apartment,Tarnaka,Hyderabad,"13,000",1050,Semi-Furnished,No,2,
+788,3,BHK,Independent,Tarnaka,Hyderabad,"25,000",1550,Semi-Furnished,No,3,
+789,3,BHK,Villa,Kollur,Hyderabad,"68,000",3562,Semi-Furnished,No,4,
+790,3,BHK,Apartment,Kokapet,Hyderabad,"42,000",1535,Semi-Furnished,No,3,
+791,3,BHK,Apartment,Kokapet,Hyderabad,"46,000",1535,Semi-Furnished,No,3,
+792,2,BHK,Apartment,Gachibowli,Hyderabad,"32,000",950,Furnished,No,2,
+793,1,BHK,Independent,Kondapur,Hyderabad,"16,000",450,Unfurnished,No,1,
+794,2,BHK,Apartment,Kondapur,Hyderabad,"26,000",950,Semi-Furnished,No,1,
+795,4,BHK,Villa,Tellapur,Hyderabad,1.25,4535,Furnished,No,5,
+796,2,BHK,Apartment,Kondapur,Hyderabad,"26,500",1350,Unfurnished,No,1,
+797,1,BHK,Apartment,Balakampet,Hyderabad,"12,000",641,Semi-Furnished,No,1,
+798,1,BHK,Apartment,Balanagar,Hyderabad,"11,500",684,Semi-Furnished,No,1,NorthEast
+799,1,BHK,Apartment,Sanjeeva Reddy Nagar,Hyderabad,"10,500",554,Semi-Furnished,No,1,North
+800,3,BHK,Apartment,Banjara Hills,Hyderabad,"65,000",2300,Semi-Furnished,No,3,East
+801,1,BHK,Apartment,Kondapur,Hyderabad,"19,001",600,Unfurnished,No,1,
+802,1,BHK,Apartment,Kondapur,Hyderabad,"12,998",680,Unfurnished,No,1,South
+803,1,BHK,Apartment,Kondapur,Hyderabad,"15,001",680,Semi-Furnished,No,1,South
+804,3,BHK,Apartment,Himayat Nagar,Hyderabad,"45,001",1800,Semi-Furnished,No,3,
+805,3,BHK,Apartment,Himayat Nagar,Hyderabad,"45,000",1800,Semi-Furnished,No,3,
+806,2,BHK,Apartment,Himayat Nagar,Hyderabad,"24,001",1150,Semi-Furnished,No,2,
+807,2,BHK,Apartment,Himayat Nagar,Hyderabad,"24,000",1100,Semi-Furnished,No,2,
+808,2,BHK,Apartment,East Marredpally,Hyderabad,"22,000",1250,Furnished,No,2,
+809,3,BHK,Apartment,Banjara Hills,Hyderabad,"40,000",1600,Semi-Furnished,No,2,
+810,3,BHK,Apartment,Banjara Hills,Hyderabad,1.25,2800,Semi-Furnished,No,2,West
+811,3,BHK,Apartment,Banjara Hills,Hyderabad,"65,000",2800,Furnished,No,2,East
+812,2,BHK,Apartment,Banjara Hills,Hyderabad,"42,000",1300,Furnished,No,1,North
+813,3,BHK,Apartment,Banjara Hills,Hyderabad,"55,000",2000,Semi-Furnished,No,2,
+814,3,BHK,Apartment,Banjara Hills,Hyderabad,"45,000",2300,Semi-Furnished,No,2,North
+815,3,BHK,Apartment,Banjara Hills,Hyderabad,"43,000",2300,Semi-Furnished,No,2,East
+816,3,BHK,Apartment,Banjara Hills,Hyderabad,"50,000",2000,Semi-Furnished,No,2,East
+817,3,BHK,Apartment,Banjara Hills,Hyderabad,"75,000",2150,Furnished,No,2,
+818,1,BHK,Apartment,Sanjeeva Reddy Nagar,Hyderabad,"10,200",687,Semi-Furnished,No,1,NorthEast
+819,1,BHK,Independent,Balkampet,Hyderabad,"11,000",750,Semi-Furnished,No,1,NorthEast
+820,1,BHK,Apartment,Kondapur,Hyderabad,"14,511",800,Semi-Furnished,No,1,
+821,2,BHK,Apartment,Kondapur,Hyderabad,"28,011",1300,Semi-Furnished,No,2,
+822,1,BHK,Independent,Uppal,Hyderabad,"6,500",670,Unfurnished,No,1,
+823,1,RK,Studio,Nallakunta,Hyderabad,"3,000",200,Unfurnished,No,1,
+824,2,BHK,Apartment,Kondapur,Hyderabad,"28,500",1300,Semi-Furnished,No,1,SouthEast
+825,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1252,Semi-Furnished,No,1,NorthEast
+826,2,BHK,Apartment,Kondapur,Hyderabad,"26,000",1200,Semi-Furnished,No,1,South
+827,1,BHK,Apartment,Kondapur,Hyderabad,"13,000",680,Unfurnished,No,1,South
+828,1,BHK,Apartment,Kondapur,Hyderabad,"14,111",800,Semi-Furnished,No,1,
+829,3,BHK,Apartment,Kondapur,Hyderabad,"33,000",1800,Semi-Furnished,No,1,South
+830,1,BHK,Apartment,Kondapur,Hyderabad,"15,502",680,Semi-Furnished,No,1,South
+831,1,BHK,Apartment,Kondapur,Hyderabad,"15,501",680,Semi-Furnished,No,1,South
+832,3,BHK,Apartment,Kondapur,Hyderabad,"33,002",1800,Semi-Furnished,No,1,South
+833,3,BHK,Apartment,Kondapur,Hyderabad,"33,001",1800,Semi-Furnished,No,1,South
+834,3,BHK,Apartment,Kondapur,Hyderabad,"34,500",1780,Semi-Furnished,No,3,NorthEast
+835,1,BHK,Apartment,Sanjeeva Reddy Nagar,Hyderabad,"10,200",687,Semi-Furnished,No,1,NorthEast
+836,3,BHK,Apartment,Neknampur,Hyderabad,"30,000",1575,Semi-Furnished,No,3,West
+837,3,BHK,Apartment,Kondapur,Hyderabad,"70,000",1855,Semi-Furnished,No,3,NorthEast
+838,1,BHK,Apartment,Kondapur,Hyderabad,"14,566",800,Semi-Furnished,No,1,
+839,1,BHK,Apartment,Kondapur,Hyderabad,"14,551",800,Semi-Furnished,No,1,
+840,3,BHK,Apartment,Jubilee Hills,Hyderabad,"45,000",2000,Furnished,No,3,NorthEast
+841,1,BHK,Apartment,Jubilee Hills,Hyderabad,"13,000",500,Unfurnished,No,1,East
+842,3,BHK,Apartment,Jubilee Hills,Hyderabad,"55,000",2000,Semi-Furnished,No,3,East
+843,1,BHK,Apartment,Jubilee Hills,Hyderabad,"15,000",550,Unfurnished,No,1,West
+844,3,BHK,Apartment,Jubilee Hills,Hyderabad,"55,000",2200,Semi-Furnished,No,3,East
+845,2,BHK,Apartment,Jubilee Hills,Hyderabad,"30,000",1050,Semi-Furnished,No,2,NorthEast
+846,2,BHK,Apartment,Madhapur,Hyderabad,"35,000",1100,Semi-Furnished,No,2,East
+847,2,BHK,Apartment,Jubilee Hills,Hyderabad,"25,000",1000,Semi-Furnished,No,2,North
+848,2,BHK,Apartment,Madhapur,Hyderabad,"30,000",1050,Semi-Furnished,No,2,NorthEast
+849,1,BHK,Apartment,Kondapur,Hyderabad,"23,500",750,Furnished,No,1,NorthEast
+850,2,BHK,Apartment,Kondapur,Hyderabad,"24,999",1250,Semi-Furnished,No,2,
+851,2,BHK,Apartment,Kondapur,Hyderabad,"25,999",800,Semi-Furnished,No,2,
+852,2,BHK,Apartment,Kondapur,Hyderabad,"25,199",1250,Semi-Furnished,No,2,
+853,3,BHK,Apartment,Mahendra Hills,Hyderabad,"18,000",1800,Semi-Furnished,No,2,
+854,3,BHK,Apartment,Kondapur,Hyderabad,1.1,2835,Semi-Furnished,No,3,NorthEast
+855,3,BHK,Apartment,Hitech City,Hyderabad,"60,000",1650,Furnished,No,3,East
+856,3,BHK,Apartment,Jubilee Hills,Hyderabad,1.1,2500,Semi-Furnished,No,4,East
+857,1,RK,Studio,Madhapur,Hyderabad,"17,000",350,Semi-Furnished,No,1,North
+858,4,BHK,Apartment,Kokapet,Hyderabad,"70,000",2600,Semi-Furnished,No,4,NorthEast
+859,1,BHK,Apartment,Kondapur,Hyderabad,"18,000",752,Semi-Furnished,No,1,
+860,3,BHK,Apartment,Mahendra Hills,Hyderabad,"18,000",1800,Semi-Furnished,No,2,
+861,3,BHK,Apartment,Kondapur,Hyderabad,"35,000",1850,Semi-Furnished,No,3,NorthEast
+862,2,BHK,Apartment,Madhapur,Hyderabad,"35,000",1050,Semi-Furnished,No,2,North
+863,1,BHK,Apartment,Madhapur,Hyderabad,"25,000",450,Furnished,No,1,East
+864,1,BHK,Apartment,Kondapur,Hyderabad,"19,000",756,Semi-Furnished,No,1,
+865,2,BHK,Apartment,Kondapur,Hyderabad,"26,000",1143,Semi-Furnished,No,2,
+866,1,BHK,Apartment,Kondapur,Hyderabad,"18,000",752,Semi-Furnished,No,1,
+867,4,BHK,Villa,Kokapet,Hyderabad,2.4,4500,Semi-Furnished,No,4,NorthEast
+868,1,BHK,Apartment,Kondapur,Hyderabad,"15,111",800,Semi-Furnished,No,1,
+869,1,BHK,Apartment,Kondapur,Hyderabad,"19,003",756,Semi-Furnished,No,1,
+870,3,BHK,Apartment,Kokapet,Hyderabad,"65,000",2600,Furnished,No,3,NorthEast
+871,3,BHK,Apartment,Kukatpally,Hyderabad,"46,000",1700,Semi-Furnished,No,3,NorthEast
+872,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1254,Semi-Furnished,No,2,
+873,3,BHK,Apartment,Kondapur,Hyderabad,"60,000",1855,Semi-Furnished,No,3,NorthEast
+874,2,BHK,Apartment,Kondapur,Hyderabad,"29,000",1265,Semi-Furnished,No,2,NorthEast
+875,3,BHK,Apartment,Kukatpally,Hyderabad,"60,000",1735,Semi-Furnished,No,3,NorthEast
+876,3,BHK,Apartment,Puppalaguda,Hyderabad,"50,000",1755,Furnished,No,3,East
+877,4,BHK,Villa,Kokapet,Hyderabad,2.4,4500,Semi-Furnished,No,4,NorthEast
+878,2,BHK,Apartment,Kondapur,Hyderabad,"29,500",1364,Semi-Furnished,No,2,
+879,2,BHK,Apartment,Kondapur,Hyderabad,"23,000",1256,Unfurnished,No,1,NorthEast
+880,1,BHK,Apartment,Madhapur,Hyderabad,"25,000",450,Furnished,No,1,East
+881,4,BHK,Villa,Kokapet,Hyderabad,2.4,4500,Semi-Furnished,No,4,NorthEast
+882,1,BHK,Apartment,Kondapur,Hyderabad,"15,111",800,Semi-Furnished,No,1,
+883,2,BHK,Apartment,Kondapur,Hyderabad,"45,000",1250,Unfurnished,No,2,NorthEast
+884,1,BHK,Apartment,Madhapur,Hyderabad,"25,000",600,Furnished,No,1,East
+885,3,BHK,Apartment,Kokapet,Hyderabad,"70,000",1668,Furnished,No,3,NorthEast
+886,4,BHK,Apartment,Kokapet,Hyderabad,"70,000",2600,Semi-Furnished,No,4,NorthEast
+887,3,BHK,Apartment,Kukatpally,Hyderabad,"60,000",1735,Semi-Furnished,No,3,NorthEast
+888,2,BHK,Apartment,Kondapur,Hyderabad,"24,999",1250,Semi-Furnished,No,2,
+889,2,BHK,Apartment,Kondapur,Hyderabad,"25,999",800,Semi-Furnished,No,2,
+890,2,BHK,Apartment,Kondapur,Hyderabad,"25,199",1250,Semi-Furnished,No,2,
+891,3,BHK,Apartment,Mahendra Hills,Hyderabad,"18,000",1800,Semi-Furnished,No,2,
+892,3,BHK,Apartment,Kondapur,Hyderabad,1.1,2835,Semi-Furnished,No,3,NorthEast
+893,3,BHK,Apartment,Hitech City,Hyderabad,"60,000",1650,Furnished,No,3,East
+894,3,BHK,Apartment,Jubilee Hills,Hyderabad,1.1,2500,Semi-Furnished,No,4,East
+895,1,RK,Studio,Madhapur,Hyderabad,"17,000",350,Semi-Furnished,No,1,North
+896,5,BHK,Apartment,West Marredpally,Hyderabad,"52,000",5000,Furnished,No,5,East
+897,1,BHK,Apartment,Kondapur,Hyderabad,"15,000",654,Unfurnished,No,1,North
+898,3,BHK,Apartment,LB Nagar,Hyderabad,"32,500",1650,Semi-Furnished,No,3,West
+899,2,BHK,Apartment,Kondapur,Hyderabad,"24,700",1300,Semi-Furnished,No,2,
+900,3,BHK,Apartment,Gachibowli,Hyderabad,"85,000",1913,Furnished,No,3,NorthEast
+901,3,BHK,Apartment,Serilingampally,Hyderabad,"64,000",1890,Semi-Furnished,No,3,NorthEast
+902,3,BHK,Apartment,Kokapet,Hyderabad,"55,000",1116,Semi-Furnished,No,3,NorthEast
+903,3,BHK,Apartment,Nanakramguda,Hyderabad,"85,000",2615,Furnished,No,3,NorthEast
+904,3,BHK,Apartment,Tellapur,Hyderabad,"45,000",1575,Semi-Furnished,No,3,NorthEast
+905,3,BHK,Apartment,Kukatpally,Hyderabad,"45,000",1830,Semi-Furnished,No,3,NorthEast
+906,3,BHK,Apartment,Kukatpally,Hyderabad,"35,000",1600,Semi-Furnished,No,3,NorthEast
+907,4,BHK,Apartment,Dilsukh Nagar,Hyderabad,"85,000",2700,Semi-Furnished,,,
+908,1,BHK,Apartment,Kondapur,Hyderabad,"22,000",670,Furnished,No,1,East
+909,1,BHK,Apartment,Kondapur,Hyderabad,"24,000",700,Furnished,No,1,NorthEast
+910,1,BHK,Apartment,Kondapur,Hyderabad,"22,000",670,Furnished,No,1,East
+911,2,BHK,Apartment,Kondapur,Hyderabad,"22,000",1300,Semi-Furnished,No,2,East
+912,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1500,Semi-Furnished,No,1,East
+913,1,BHK,Apartment,Kondapur,Hyderabad,"15,000",650,Unfurnished,No,1,East
+914,2,BHK,Apartment,Kondapur,Hyderabad,"22,000",1300,Semi-Furnished,No,2,East
+915,2,BHK,Apartment,Kondapur,Hyderabad,"24,000",1350,Unfurnished,No,2,East
+916,1,BHK,Apartment,Kondapur,Hyderabad,"22,000",650,Furnished,No,1,East
+917,1,BHK,Apartment,Kondapur,Hyderabad,"16,000",500,Semi-Furnished,No,1,
+918,1,BHK,Apartment,Kondapur,Hyderabad,"17,000",600,Semi-Furnished,No,1,East
+919,1,BHK,Apartment,Kondapur,Hyderabad,"16,000",600,Semi-Furnished,No,1,North
+920,1,BHK,Apartment,Kondapur,Hyderabad,"16,000",600,Semi-Furnished,No,1,North
+921,1,BHK,Apartment,Kondapur,Hyderabad,"18,000",650,Semi-Furnished,No,1,East
+922,1,BHK,Apartment,Kondapur,Hyderabad,"24,500",1350,Unfurnished,No,1,East
+923,1,BHK,Apartment,Kondapur,Hyderabad,"22,000",670,Furnished,No,1,East
+924,2,BHK,Apartment,Kondapur,Hyderabad,"25,011",1250,Semi-Furnished,No,2,
+925,2,BHK,Apartment,Kondapur,Hyderabad,"25,500",1250,Semi-Furnished,No,2,
+926,2,BHK,Apartment,Kondapur,Hyderabad,"25,000",1250,Semi-Furnished,No,2,
+927,1,BHK,Apartment,Madhapur,Hyderabad,"17,000",700,Unfurnished,No,1,
+928,2,BHK,Apartment,Madhapur,Hyderabad,"25,000",1300,Semi-Furnished,No,2,
+929,1,BHK,Apartment,Madhapur,Hyderabad,"18,000",600,Semi-Furnished,No,1,
+930,3,BHK,Apartment,Madhapur,Hyderabad,"51,000",1900,Semi-Furnished,No,3,
+931,3,BHK,Apartment,Madhapur,Hyderabad,"50,000",2000,Semi-Furnished,No,3,
+932,2,BHK,Apartment,Madhapur,Hyderabad,"33,000",1300,Semi-Furnished,No,2,
+933,2,BHK,Apartment,Madhapur,Hyderabad,"29,000",1200,Semi-Furnished,No,2,
+934,3,BHK,Apartment,Madhapur,Hyderabad,"50,000",2000,Furnished,No,3,
+935,3,BHK,Apartment,Serilingampally,Hyderabad,"55,000",1535,Semi-Furnished,No,2,
+936,1,BHK,Apartment,Kondapur,Hyderabad,"24,500",750,Furnished,No,1,NorthEast
+937,1,BHK,Apartment,Kondapur,Hyderabad,"21,000",750,Semi-Furnished,No,1,West
+938,3,BHK,Apartment,Kondapur,Hyderabad,"30,000",1800,Semi-Furnished,No,3,NorthEast
+939,2,BHK,Apartment,Madhapur,Hyderabad,"37,000",1250,Furnished,No,2,
+940,2,BHK,Apartment,Himayat Nagar,Hyderabad,"20,000",1100,Semi-Furnished,No,2,East
+941,2,BHK,Apartment,Madhapur,Hyderabad,"37,000",1250,Furnished,No,2,
+942,1,BHK,Apartment,Madhapur,Hyderabad,"24,500",650,Furnished,No,1,
+943,2,BHK,Apartment,Madhapur,Hyderabad,"32,000",1250,Semi-Furnished,No,2,
+944,2,BHK,Apartment,Shamshabad,Hyderabad,"30,000",1250,Semi-Furnished,No,2,
+945,2,BHK,Apartment,Kondapur,Hyderabad,"26,000",1200,Semi-Furnished,No,2,
+946,2,BHK,Apartment,Madhapur,Hyderabad,"35,000",1250,Furnished,No,2,
+947,2,BHK,Apartment,Madhapur,Hyderabad,"37,000",1250,Furnished,No,2,
+948,3,BHK,Apartment,Jubilee Hills,Hyderabad,"37,000",1850,Semi-Furnished,No,3,
+949,3,BHK,Apartment,Madhapur,Hyderabad,"55,000",1850,Semi-Furnished,No,3,
+950,2,BHK,Apartment,Madhapur,Hyderabad,"35,000",1250,Semi-Furnished,No,2,
+951,2,BHK,Apartment,Madhapur,Hyderabad,"25,000",1250,Semi-Furnished,No,2,
+952,2,BHK,Apartment,Madhapur,Hyderabad,"35,000",1650,Furnished,No,2,
+953,2,BHK,Apartment,Madhapur,Hyderabad,"32,000",1250,Semi-Furnished,No,2,
+954,2,BHK,Apartment,Madhapur,Hyderabad,"28,000",1850,Semi-Furnished,No,2,
+955,3,BHK,Apartment,Madhapur,Hyderabad,"40,000",1850,Semi-Furnished,No,3,
+956,2,BHK,Apartment,Madhapur,Hyderabad,"32,000",1650,Semi-Furnished,No,2,
+957,2,BHK,Apartment,Madhapur,Hyderabad,"30,000",1850,Semi-Furnished,No,2,
+958,2,BHK,Apartment,Madhapur,Hyderabad,"28,000",1900,Semi-Furnished,No,2,
+959,2,BHK,Apartment,Madhapur,Hyderabad,"27,000",1100,Semi-Furnished,No,2,
+960,3,BHK,Apartment,Madhapur,Hyderabad,"60,000",3500,Semi-Furnished,No,3,
+961,3,BHK,Apartment,Sangareddy,Hyderabad,"60,000",3100,Semi-Furnished,No,3,
+962,2,BHK,Apartment,Madhapur,Hyderabad,"37,000",1250,Unfurnished,No,2,
+963,3,BHK,Apartment,Sangareddy,Hyderabad,"45,000",1250,Semi-Furnished,No,3,
+964,2,BHK,Apartment,Madhapur,Hyderabad,"35,000",1250,Furnished,No,2,
+965,3,BHK,Apartment,Madhapur,Hyderabad,"50,000",1850,Semi-Furnished,No,3,East
+966,2,BHK,Apartment,Madhapur,Hyderabad,"27,000",1650,Semi-Furnished,No,2,
+967,1,BHK,Apartment,Madhapur,Hyderabad,"23,000",650,Semi-Furnished,No,1,
+968,2,BHK,Apartment,Madhapur,Hyderabad,"28,000",1250,Semi-Furnished,No,2,
+969,2,BHK,Apartment,Madhapur,Hyderabad,"28,000",1650,Semi-Furnished,No,2,
+970,1,BHK,Apartment,Madhapur,Hyderabad,"25,000",700,Furnished,No,1,
+971,2,BHK,Apartment,Madhapur,Hyderabad,"33,000",1250,Furnished,No,2,
+972,2,BHK,Apartment,Madhapur,Hyderabad,"35,000",1250,Furnished,No,2,
+973,2,BHK,Apartment,Madhapur,Hyderabad,"25,000",1250,Semi-Furnished,No,2,
+974,2,BHK,Apartment,Madhapur,Hyderabad,"32,000",1250,Semi-Furnished,No,2,
+975,2,BHK,Apartment,Madhapur,Hyderabad,"35,000",1250,Furnished,No,2,
+976,3,BHK,Apartment,Madhapur,Hyderabad,"42,000",2000,Semi-Furnished,No,3,
+977,2,BHK,Apartment,Madhapur,Hyderabad,"38,000",1750,Furnished,No,2,
+978,1,BHK,Apartment,Madhapur,Hyderabad,"19,000",800,Semi-Furnished,No,1,
+979,1,BHK,Apartment,Madhapur,Hyderabad,"20,000",650,Furnished,No,1,
+980,3,BHK,Apartment,Tarnaka,Hyderabad,"17,000",1450,Semi-Furnished,No,3,
+981,2,BHK,Apartment,Nallakunta,Hyderabad,"19,000",1200,Furnished,No,2,East
+982,1,BHK,Apartment,Kondapur,Hyderabad,"13,500",650,Unfurnished,No,1,East
+983,1,BHK,Apartment,Kondapur,Hyderabad,"23,000",950,Furnished,No,1,East
+984,3,BHK,Apartment,Kondapur,Hyderabad,"34,005",1800,Semi-Furnished,No,2,NorthEast
+985,1,BHK,Apartment,Hafeezpet,Hyderabad,"14,600",710,Unfurnished,No,1,East
+986,1,BHK,Apartment,Kondapur,Hyderabad,"14,000",710,Unfurnished,No,1,East
+987,2,BHK,Apartment,Nallakunta,Hyderabad,"20,000",1400,Furnished,No,2,
+988,1,BHK,Apartment,Kondapur,Hyderabad,"15,000",650,Unfurnished,No,1,East
+989,4,BHK,Apartment,Kondapur,Hyderabad,"75,000",2800,Semi-Furnished,No,4,
+990,3,BHK,Apartment,Kondapur,Hyderabad,"55,000",1890,Semi-Furnished,No,3,
+991,2,BHK,Apartment,Kondapur,Hyderabad,"60,000",1340,Semi-Furnished,No,2,
+992,3,BHK,Apartment,Kondapur,Hyderabad,"65,000",2290,Semi-Furnished,No,2,
+993,3,BHK,Apartment,Kondapur,Hyderabad,"65,000",1965,Semi-Furnished,No,2,
+994,2,BHK,Apartment,Kondapur,Hyderabad,"50,000",1300,Semi-Furnished,No,2,
+995,2,BHK,Apartment,Kukatpally,Hyderabad,"45,000",1450,Semi-Furnished,No,2,
+996,1,BHK,Apartment,Kondapur,Hyderabad,"24,000",700,Furnished,,,
+997,3,BHK,Apartment,Kondapur,Hyderabad,"34,000",2000,Semi-Furnished,,,
+998,1,BHK,Apartment,Kondapur,Hyderabad,"14,500",650,Semi-Furnished,,,
+999,3,BHK,Apartment,Kondapur,Hyderabad,"30,000",1700,Semi-Furnished,,,
+1000,1,BHK,Apartment,Kondapur,Hyderabad,"24,000",700,Furnished,,,
+1001,3,BHK,Apartment,Kondapur,Hyderabad,"34,000",2000,Semi-Furnished,,,
+1002,1,BHK,Apartment,Kondapur,Hyderabad,"14,500",650,Semi-Furnished,,,
+1003,3,BHK,Apartment,Kondapur,Hyderabad,"30,000",1700,Semi-Furnished,,,
+1004,1,BHK,Apartment,Kondapur,Hyderabad,"15,000",650,Semi-Furnished,,,
+1005,2,BHK,Apartment,Kondapur,Hyderabad,"27,000",1250,Semi-Furnished,,,
+1006,3,BHK,Apartment,Kondapur,Hyderabad,"35,000",1850,Semi-Furnished,,,
+1007,3,BHK,Apartment,Kondapur,Hyderabad,"34,000",1850,Semi-Furnished,,,
+1008,1,BHK,Apartment,Kondapur,Hyderabad,"14,500",650,Semi-Furnished,,,
+1009,1,BHK,Apartment,Kondapur,Hyderabad,"24,000",700,Furnished,,,
+1010,2,BHK,Apartment,Kondapur,Hyderabad,"27,000",1250,Semi-Furnished,,,
+1011,1,BHK,Apartment,Kondapur,Hyderabad,"18,000",700,Semi-Furnished,,,
+1012,3,BHK,Apartment,Kondapur,Hyderabad,"45,000",1850,Semi-Furnished,No,3,
+1013,1,BHK,Apartment,Kondapur,Hyderabad,"15,000",650,Semi-Furnished,,,
+1014,2,BHK,Apartment,Kondapur,Hyderabad,"26,000",1250,Semi-Furnished,,,
+1015,2,BHK,Apartment,Kondapur,Hyderabad,"26,000",1200,Semi-Furnished,,,
+1016,2,BHK,Apartment,Madhapur,Hyderabad,"25,000",1200,Unfurnished,No,1,East
+1017,1,BHK,Independent,Uppal,Hyderabad,"9,500",800,Semi-Furnished,No,1,
+1018,3,BHK,Villa,Gopanpally,Hyderabad,"80,000",3800,Semi-Furnished,No,4,North
+1019,2,BHK,Apartment,Nanakramguda,Hyderabad,"41,000",1398,Semi-Furnished,No,2,
+1020,2,BHK,Apartment,Kondapur,Hyderabad,"26,002",1150,Semi-Furnished,No,1,South
+1021,1,BHK,Apartment,Kondapur,Hyderabad,"12,992",680,Unfurnished,No,1,South
+1022,4,BHK,Villa,Kokapet,Hyderabad,1.5,3600,Furnished,No,5,
+1023,3,BHK,Apartment,Nanakramguda,Hyderabad,"55,000",2000,Semi-Furnished,No,3,
+1024,1,BHK,Apartment,Kondapur,Hyderabad,"12,999",680,Unfurnished,No,1,South
+1025,1,BHK,Apartment,Kondapur,Hyderabad,"14,503",680,Unfurnished,No,1,South
+1026,1,BHK,Apartment,Kondapur,Hyderabad,"12,993",680,Unfurnished,No,1,South
+1027,2,BHK,Apartment,Nanakramguda,Hyderabad,"42,000",1400,Semi-Furnished,No,2,
+1028,2,BHK,Apartment,Nanakramguda,Hyderabad,"40,000",1350,Semi-Furnished,No,2,
+1029,3,BHK,Villa,Mokila,Hyderabad,"50,000",2400,Semi-Furnished,No,4,
+1030,3,BHK,Apartment,Nanakramguda,Hyderabad,"80,000",2000,Furnished,No,3,
+1031,1,BHK,Apartment,Kondapur,Hyderabad,"15,502",680,Semi-Furnished,No,1,South
+1032,1,BHK,Apartment,Kondapur,Hyderabad,"14,502",680,Unfurnished,No,1,South
+1033,2,BHK,Apartment,Kondapur,Hyderabad,"38,000",1251,Semi-Furnished,No,1,South
+1034,2,BHK,Apartment,Kondapur,Hyderabad,"38,003",1252,Semi-Furnished,No,1,South
+1035,2,BHK,Apartment,Kondapur,Hyderabad,"38,002",1250,Semi-Furnished,No,1,South
+1036,1,BHK,Apartment,Kondapur,Hyderabad,"12,998",680,Unfurnished,No,1,South
+1037,1,BHK,Apartment,Kondapur,Hyderabad,"13,002",680,Unfurnished,No,1,South
+1038,2,BHK,Apartment,Nanakramguda,Hyderabad,"42,000",1398,Semi-Furnished,No,2,
+1039,2,BHK,Apartment,Madhapur,Hyderabad,"29,000",1330,Semi-Furnished,No,2,
+1040,1,BHK,Apartment,Kondapur,Hyderabad,"20,000",650,Furnished,No,1,
+1041,2,BHK,Apartment,Kondapur,Hyderabad,"20,000",950,Unfurnished,No,1,
+1042,2,BHK,Apartment,Kondapur,Hyderabad,"30,000",1250,Semi-Furnished,No,2,North
+1043,2,BHK,Apartment,Erragadda,Hyderabad,"22,000",1054,Furnished,No,2,North
+1044,2,BHK,Apartment,Balakampet,Hyderabad,"15,000",1154,Semi-Furnished,No,2,East
+1045,1,BHK,Apartment,Sanjeeva Reddy Nagar,Hyderabad,"11,000",641,Semi-Furnished,No,1,East
+1046,1,BHK,Apartment,Ameerpet,Hyderabad,"10,500",645,Unfurnished,No,1,
+1047,2,BHK,Apartment,Sanjeeva Reddy Nagar,Hyderabad,"19,000",1220,Semi-Furnished,No,2,North
+1048,1,BHK,Apartment,Sanath Nagar,Hyderabad,"11,000",575,Unfurnished,No,1,East
+1049,2,BHK,Apartment,Yousufguda,Hyderabad,"16,000",645,Unfurnished,No,1,
+1050,1,BHK,Apartment,Yousufguda,Hyderabad,"11,000",645,Unfurnished,No,1,
+1051,2,BHK,Apartment,Ameerpet,Hyderabad,"22,000",1150,Semi-Furnished,No,2,East
+1052,1,BHK,Apartment,Sanjeeva Reddy Nagar,Hyderabad,"10,500",590,Unfurnished,No,1,East
+1053,2,BHK,Apartment,Sanjeeva Reddy Nagar,Hyderabad,"23,000",1210,Semi-Furnished,No,2,East
+1054,1,BHK,Apartment,Yousufguda,Hyderabad,"11,000",644,Unfurnished,No,1,
+1055,1,RK,Studio,Kondapur,Hyderabad,"10,000",400,Unfurnished,,,
+1056,1,BHK,Independent,Begumpet,Hyderabad,"12,000",500,Semi-Furnished,No,1,
+1057,1,BHK,Apartment,Kondapur,Hyderabad,"25,000",700,Furnished,No,1,
+1058,3,BHK,Apartment,Kondapur,Hyderabad,"38,000",1700,Furnished,No,2,
+1059,1,BHK,Apartment,Kondapur,Hyderabad,"20,000",800,Semi-Furnished,No,1,
+1060,2,BHK,Apartment,Kondapur,Hyderabad,"33,000",900,Furnished,No,2,
+1061,2,BHK,Apartment,Kondapur,Hyderabad,"23,000",1000,Unfurnished,No,2,
+1062,3,BHK,Apartment,Himayat Nagar,Hyderabad,"35,000",2100,Semi-Furnished,No,2,
+1063,3,BHK,Apartment,Lakdikapul,Hyderabad,"60,001",2300,Furnished,No,3,
+1064,3,BHK,Apartment,Punjagutta,Hyderabad,"80,001",2400,Semi-Furnished,No,3,
+1065,1,RK,Studio,Kondapur,Hyderabad,"12,000",650,Unfurnished,No,1,East
+1066,3,BHK,Apartment,Punjagutta,Hyderabad,"80,000",2400,Unfurnished,No,3,
+1067,3,BHK,Apartment,Himayat Nagar,Hyderabad,"45,000",2200,Semi-Furnished,No,2,
+1068,3,BHK,Apartment,Lakdikapul,Hyderabad,"60,000",2300,Furnished,No,3,
+1069,1,BHK,Apartment,Kondapur,Hyderabad,"19,000",700,Semi-Furnished,No,1,
+1070,1,RK,Studio,Kondapur,Hyderabad,"10,000",400,Unfurnished,No,1,North
+1071,1,RK,Studio,Kondapur,Hyderabad,"9,000",350,Unfurnished,No,1,East
+1072,1,RK,Studio,Kondapur,Hyderabad,"11,000",400,Unfurnished,No,1,East
+1073,3,BHK,Apartment,Kondapur,Hyderabad,"35,000",1700,Semi-Furnished,No,3,East
+1074,2,BHK,Apartment,Gachibowli,Hyderabad,"31,000",1200,Furnished,No,2,
+1075,1,BHK,Apartment,Kondapur,Hyderabad,"16,000",800,Semi-Furnished,No,1,
+1076,1,BHK,Apartment,Kondapur,Hyderabad,"14,500",675,Unfurnished,No,1,
+1077,1,RK,Studio,Kondapur,Hyderabad,"17,000",615,Furnished,No,1,
+1078,1,BHK,Apartment,Madhapur,Hyderabad,"28,000",700,Furnished,No,1,East
+1079,3,BHK,Apartment,Madhapur,Hyderabad,"70,000",2000,Semi-Furnished,No,3,
+1080,2,BHK,Apartment,Madhapur,Hyderabad,"28,000",1200,Semi-Furnished,No,2,
+1081,1,BHK,Apartment,Madhapur,Hyderabad,"16,000",600,Unfurnished,No,1,
+1082,1,BHK,Apartment,Madhapur,Hyderabad,"16,500",550,Semi-Furnished,No,1,
+1083,1,BHK,Apartment,Madhapur,Hyderabad,"25,000",700,Furnished,No,1,
+1084,1,BHK,Apartment,Madhapur,Hyderabad,"20,000",800,Semi-Furnished,No,1,
+1085,2,BHK,Apartment,Madhapur,Hyderabad,"35,000",1300,Furnished,No,2,
+1086,1,BHK,Apartment,Madhapur,Hyderabad,"17,000",600,Semi-Furnished,No,1,
+1087,1,BHK,Apartment,Madhapur,Hyderabad,"16,000",550,Unfurnished,No,1,
+1088,1,BHK,Apartment,Madhapur,Hyderabad,"17,000",600,Unfurnished,No,1,
+1089,1,BHK,Apartment,Madhapur,Hyderabad,"17,000",600,Unfurnished,No,1,
+1090,1,BHK,Apartment,Madhapur,Hyderabad,"26,000",600,Furnished,No,1,
+1091,1,BHK,Apartment,Madhapur,Hyderabad,"18,000",600,Unfurnished,No,1,
+1092,1,BHK,Apartment,Madhapur,Hyderabad,"17,000",650,Semi-Furnished,No,1,
+1093,1,BHK,Apartment,Madhapur,Hyderabad,"22,000",700,Semi-Furnished,No,1,
+1094,3,BHK,Apartment,Madhapur,Hyderabad,"70,000",2000,Semi-Furnished,No,3,
+1095,3,BHK,Apartment,Jubilee Hills,Hyderabad,"50,000",2200,Semi-Furnished,No,2,North
+1096,1,BHK,Apartment,Kondapur,Hyderabad,"15,000",712,Unfurnished,No,1,
+1097,1,BHK,Apartment,Kondapur,Hyderabad,"13,500",612,Unfurnished,No,1,
+1098,1,BHK,Apartment,Kondapur,Hyderabad,"15,000",715,Unfurnished,No,1,
+1099,1,BHK,Apartment,Kondapur,Hyderabad,"23,500",715,Furnished,No,1,
+1100,1,BHK,Apartment,Kondapur,Hyderabad,"25,000",715,Furnished,No,1,
+1101,3,BHK,Apartment,Kondapur,Hyderabad,"38,000",1500,Semi-Furnished,No,2,
+1102,1,BHK,Apartment,Kondapur,Hyderabad,"15,500",752,Semi-Furnished,No,1,
+1103,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1200,Semi-Furnished,No,1,
+1104,1,BHK,Apartment,Kondapur,Hyderabad,"14,999",672,Unfurnished,No,1,
+1105,2,BHK,Apartment,Kondapur,Hyderabad,"38,000",1200,Furnished,No,2,
+1106,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1200,Semi-Furnished,No,2,
+1107,3,BHK,Apartment,Kondapur,Hyderabad,"48,000",1672,Semi-Furnished,No,3,
+1108,1,BHK,Apartment,Kondapur,Hyderabad,"18,000",752,Semi-Furnished,No,1,
+1109,1,BHK,Apartment,Kondapur,Hyderabad,"15,000",652,Unfurnished,No,1,
+1110,1,BHK,Apartment,Kondapur,Hyderabad,"18,000",752,Semi-Furnished,No,1,
+1111,3,BHK,Apartment,Kondapur,Hyderabad,"33,000",1500,Semi-Furnished,No,2,
+1112,2,BHK,Apartment,Kondapur,Hyderabad,"32,000",1200,Semi-Furnished,No,2,
+1113,1,BHK,Apartment,Hitech City,Hyderabad,"14,500",756,Unfurnished,No,1,
+1114,3,BHK,Apartment,Kondapur,Hyderabad,"37,000",1700,Semi-Furnished,No,2,
+1115,1,BHK,Apartment,Kondapur,Hyderabad,"23,500",756,Furnished,No,1,
+1116,1,BHK,Apartment,Kondapur,Hyderabad,"16,000",712,Unfurnished,No,1,
+1117,2,BHK,Apartment,Kondapur,Hyderabad,"25,000",1150,Unfurnished,No,2,
+1118,2,BHK,Apartment,Kondapur,Hyderabad,"27,999",1200,Semi-Furnished,No,2,
+1119,3,BHK,Apartment,Kondapur,Hyderabad,"45,000",1800,Semi-Furnished,No,3,
+1120,3,BHK,Apartment,Kondapur,Hyderabad,"45,000",1800,Semi-Furnished,No,3,
+1121,2,BHK,Apartment,Kondapur,Hyderabad,"29,000",1200,Semi-Furnished,No,2,
+1122,1,BHK,Apartment,Kondapur,Hyderabad,"19,000",752,Semi-Furnished,No,1,
+1123,2,BHK,Apartment,Kondapur,Hyderabad,"25,000",1100,Semi-Furnished,No,2,
+1124,1,BHK,Apartment,Kondapur,Hyderabad,"14,999",672,Unfurnished,No,1,
+1125,1,BHK,Apartment,Kondapur,Hyderabad,"15,000",712,Unfurnished,No,1,
+1126,2,BHK,Apartment,Kondapur,Hyderabad,"29,000",1200,Semi-Furnished,No,2,
+1127,3,BHK,Apartment,Kondapur,Hyderabad,"42,000",1500,Furnished,No,3,
+1128,2,BHK,Apartment,Kondapur,Hyderabad,"26,000",1100,Semi-Furnished,No,2,
+1129,2,BHK,Apartment,Kondapur,Hyderabad,"25,000",1100,Semi-Furnished,No,2,
+1130,1,BHK,Apartment,Kondapur,Hyderabad,"16,000",672,Semi-Furnished,No,1,
+1131,2,BHK,Apartment,Kondapur,Hyderabad,"24,000",1200,Unfurnished,No,2,
+1132,1,BHK,Apartment,Kondapur,Hyderabad,"26,000",715,Furnished,No,1,
+1133,1,BHK,Apartment,Kondapur,Hyderabad,"24,000",1100,Semi-Furnished,No,2,
+1134,1,BHK,Apartment,Kondapur,Hyderabad,"13,000",675,Unfurnished,No,1,
+1135,1,BHK,Apartment,Kondapur,Hyderabad,"14,000",715,Unfurnished,No,1,
+1136,1,BHK,Apartment,Kondapur,Hyderabad,"18,000",715,Unfurnished,No,1,
+1137,2,BHK,Apartment,Kondapur,Hyderabad,"32,000",1400,Semi-Furnished,No,2,North
+1138,1,BHK,Apartment,Kondapur,Hyderabad,"23,200",850,Furnished,No,1,East
+1139,2,BHK,Apartment,Kondapur,Hyderabad,"28,600",1350,Semi-Furnished,No,2,North
+1140,2,BHK,Apartment,Kondapur,Hyderabad,"26,000",1150,Semi-Furnished,No,2,North
+1141,3,BHK,Apartment,Kondapur,Hyderabad,"35,000",2200,Semi-Furnished,No,3,East
+1142,2,BHK,Apartment,Kondapur,Hyderabad,"28,500",1400,Semi-Furnished,No,1,NorthEast
+1143,1,BHK,Apartment,Kondapur,Hyderabad,"15,500",700,Semi-Furnished,No,1,NorthEast
+1144,3,BHK,Apartment,Kondapur,Hyderabad,"34,000",1750,Semi-Furnished,No,3,NorthEast
+1145,2,BHK,Apartment,Kukatpally,Hyderabad,"45,000",1350,Semi-Furnished,No,3,
+1146,2,BHK,Apartment,Kondapur,Hyderabad,"23,001",1250,Semi-Furnished,No,1,
+1147,3,BHK,Apartment,Kondapur,Hyderabad,"32,001",1700,Semi-Furnished,No,2,
+1148,2,BHK,Apartment,Kondapur,Hyderabad,"25,000",1000,Unfurnished,No,1,
+1149,2,BHK,Apartment,Kondapur,Hyderabad,"25,001",1000,Unfurnished,No,1,
+1150,1,BHK,Apartment,Kondapur,Hyderabad,"20,002",550,Semi-Furnished,No,1,
+1151,1,BHK,Apartment,Kondapur,Hyderabad,"19,000",550,Semi-Furnished,No,1,
+1152,1,BHK,Apartment,Kondapur,Hyderabad,"23,000",650,Furnished,No,1,
+1153,2,BHK,Apartment,Kondapur,Hyderabad,"25,000",800,Unfurnished,No,1,
+1154,1,BHK,Apartment,Kondapur,Hyderabad,"24,001",600,Furnished,No,1,
+1155,2,BHK,Apartment,Kondapur,Hyderabad,"26,000",1000,Unfurnished,No,1,
+1156,2,BHK,Independent,Kondapur,Hyderabad,"26,000",850,Furnished,No,1,
+1157,3,BHK,Apartment,Kondapur,Hyderabad,"32,001",1400,Semi-Furnished,No,2,
+1158,1,BHK,Apartment,Kondapur,Hyderabad,"18,000",500,Semi-Furnished,No,1,
+1159,1,BHK,Apartment,Kondapur,Hyderabad,"24,000",600,Furnished,No,1,
+1160,2,BHK,Independent,Kondapur,Hyderabad,"26,000",850,Furnished,No,1,
+1161,3,BHK,Apartment,Kondapur,Hyderabad,"32,001",1400,Semi-Furnished,No,2,
+1162,1,BHK,Apartment,Kondapur,Hyderabad,"18,000",500,Semi-Furnished,No,1,
+1163,2,BHK,Apartment,Kondapur,Hyderabad,"23,001",1250,Semi-Furnished,No,1,
+1164,3,BHK,Apartment,Kondapur,Hyderabad,"32,001",1700,Semi-Furnished,No,2,
+1165,1,BHK,Apartment,Kondapur,Hyderabad,"24,000",600,Furnished,No,1,
+1166,1,BHK,Apartment,Kondapur,Hyderabad,"19,001",600,Semi-Furnished,No,1,
+1167,1,BHK,Apartment,Kondapur,Hyderabad,"20,002",550,Semi-Furnished,No,1,
+1168,1,BHK,Apartment,Kondapur,Hyderabad,"18,000",550,Semi-Furnished,No,1,
+1169,1,BHK,Apartment,Kondapur,Hyderabad,"19,000",600,Semi-Furnished,No,1,
+1170,1,BHK,Apartment,Kondapur,Hyderabad,"20,000",550,Semi-Furnished,No,1,
+1171,2,BHK,Apartment,Kondapur,Hyderabad,"34,000",1200,Furnished,No,2,
+1172,2,BHK,Apartment,Nanakramguda,Hyderabad,"38,000",1200,Semi-Furnished,No,2,East
+1173,3,BHK,Apartment,Nanakramguda,Hyderabad,"47,000",1887,Semi-Furnished,No,3,West
+1174,2,BHK,Apartment,Nanakramguda,Hyderabad,"38,000",1200,Semi-Furnished,No,2,East
+1175,4,BHK,Apartment,Nanakramguda,Hyderabad,"60,000",2640,Semi-Furnished,No,4,
+1176,3,BHK,Apartment,Kondapur,Hyderabad,1.05,2390,Semi-Furnished,No,3,West
+1177,3,BHK,Apartment,KTR Colony Road Number 2,Hyderabad,"18,600",1460,Semi-Furnished,No,3,25th
+1178,3,BHK,Apartment,Gachibowli,Hyderabad,"68,000",1206,Furnished,No,3,NorthEast
+1179,4,BHK,Apartment,Nanakramguda,Hyderabad,"65,000",2640,Semi-Furnished,No,4,East
+1180,2,BHK,Apartment,KTR Colony Hyderabad,Hyderabad,"15,200",1400,Unfurnished,No,2,3rd
+1181,1,BHK,Independent,Alwal,Hyderabad,"7,020",700,Unfurnished,No,1,
+1182,1,BHK,Independent,Alwal,Hyderabad,"7,020",700,Unfurnished,No,1,
+1183,4,BHK,Independent,Gajilaramavaram,Hyderabad,"24,000",1800,Semi-Furnished,No,4,
+1184,2,BHK,Independent,Alwal,Hyderabad,"13,500",1300,Unfurnished,No,2,
+1185,3,BHK,Independent,Alwal,Hyderabad,"20,700",1500,Furnished,No,2,
+1186,2,BHK,Apartment,Madhapur,Hyderabad,"30,000",1350,Semi-Furnished,,,
+1187,1,BHK,Apartment,Madhapur,Hyderabad,"23,000",800,Furnished,,,
+1188,3,BHK,Apartment,Madhapur,Hyderabad,"50,000",2000,Semi-Furnished,,,
+1189,2,BHK,Apartment,Madhapur,Hyderabad,"36,000",1300,Furnished,,,
+1190,1,BHK,Apartment,Madhapur,Hyderabad,"18,000",630,Semi-Furnished,,,
+1191,1,BHK,Apartment,Madhapur,Hyderabad,"30,000",700,Furnished,,,
+1192,3,BHK,Apartment,Madhapur,Hyderabad,"65,000",1900,Semi-Furnished,,,
+1193,1,BHK,Apartment,Kondapur,Hyderabad,"15,000",672,Semi-Furnished,No,1,
+1194,2,BHK,Apartment,Madhapur,Hyderabad,"33,000",1200,Semi-Furnished,,,
+1195,2,BHK,Apartment,Kondapur,Hyderabad,"28,000",1500,Semi-Furnished,No,1,East
+1196,2,BHK,Apartment,Kondapur,Hyderabad,"26,000",1150,Semi-Furnished,No,2,East
+1197,3,BHK,Apartment,Kondapur,Hyderabad,"37,000",1850,Semi-Furnished,No,2,East
+1198,1,BHK,Apartment,Kondapur,Hyderabad,"25,000",650,Semi-Furnished,No,1,East
+1199,1,BHK,Apartment,Kondapur,Hyderabad,"17,000",600,Semi-Furnished,No,1,East
+1200,1,BHK,Apartment,Kondapur,Hyderabad,"17,000",650,Unfurnished,No,1,East
+1201,2,BHK,Apartment,Kondapur,Hyderabad,"24,000",1300,Semi-Furnished,No,2,East
+1202,1,BHK,Apartment,Kondapur,Hyderabad,"14,000",650,Unfurnished,No,1,NorthEast
+1203,1,BHK,Apartment,Kondapur,Hyderabad,"15,000",650,Unfurnished,No,1,East
+1204,1,BHK,Apartment,Kondapur,Hyderabad,"22,000",650,Furnished,No,1,East
+1205,1,BHK,Apartment,Kondapur,Hyderabad,"22,000",670,Furnished,No,1,East
+1206,1,BHK,Apartment,Kondapur,Hyderabad,"15,000",650,Semi-Furnished,No,1,East
+1207,1,BHK,Apartment,Gachibowli,Hyderabad,"22,000",600,Furnished,,,
+1208,4,BHK,Villa,Tellapur,Hyderabad,1.5,4140,Semi-Furnished,,,
+1209,2,BHK,Apartment,Jubilee Hills,Hyderabad,"3,000",400,Unfurnished,No,,
+1210,2,BHK,Apartment,Jubilee Hills,Hyderabad,"3,000",400,Unfurnished,No,,
+1211,3,BHK,Independent,Nizampet,Hyderabad,"40,000",1950,Semi-Furnished,No,3,East
+1212,6,BHK,Villa,Yapral,Hyderabad,,,Unfurnished,No,4,East
+1213,3,BHK,Apartment,Puppalaguda,Hyderabad,"48,000",1755,Semi-Furnished,No,3,East
+1214,2,BHK,Independent,Dammaiguda,Hyderabad,"9,000",1200,Unfurnished,No,2,North
+1215,2,BHK,Apartment,Gachibowli,Hyderabad,"20,000",1250,Furnished,No,2,
+1216,3,BHK,Independent,Kompally,Hyderabad,"32,000",1995,Semi-Furnished,No,3,
+1217,2,BHK,Apartment,Gachibowli,Hyderabad,"25,000",1200,Furnished,No,2,East
+1218,1,BHK,Independent,Upparpally,Hyderabad,"10,000",1100,Semi-Furnished,No,1,
+1219,1,BHK,Apartment,Gachibowli,Hyderabad,"11,000",710,Furnished,No,1,NorthEast
+1220,1,BHK,Apartment,Gachibowli,Hyderabad,"11,000",710,Furnished,No,1,NorthEast
+1221,4,BHK,Apartment,Manikonda,Hyderabad,"60,000",1800,Semi-Furnished,,,
+1222,4,BHK,Independent,Trimalgherry,Hyderabad,"40,000",2740,Semi-Furnished,No,4,West
+1223,1,BHK,Independent,Medchal,Hyderabad,"9,000",900,Furnished,No,1,NorthEast
+1224,1,BHK,Apartment,Gachibowli,Hyderabad,"11,000",710,Furnished,No,1,NorthEast
+1225,2,BHK,Independent,Kanchan Bagh,Hyderabad,"11,000",950,Unfurnished,No,2,West
+1226,3,BHK,Apartment,Hitech City,Hyderabad,"52,500",1650,Semi-Furnished,No,3,North
+1227,3,BHK,Apartment,Kondapur,Hyderabad,"43,000",2020,Semi-Furnished,No,3,2
+1228,2,BHK,Apartment,Masab Tank,Hyderabad,"27,000",1200,Furnished,No,2,
+1229,2,BHK,Independent,Hayathnagar,Hyderabad,"12,000",750,Furnished,No,2,NorthWest
+1230,3,BHK,Apartment,Kokapet,Hyderabad,"72,000",2235,Semi-Furnished,,,
+1231,1,BHK,Apartment,Kondapur,Hyderabad,"25,000",600,Furnished,,,
+1232,1,BHK,Apartment,Kondapur,Hyderabad,"24,000",600,Furnished,,,
+1233,1,BHK,Apartment,Kondapur,Hyderabad,"24,000",600,Furnished,,,
+1234,3,BHK,Independent,Hyderguda,Hyderabad,"28,000",1250,Semi-Furnished,,,
+1235,1,BHK,Apartment,Kondapur,Hyderabad,"24,000",600,Furnished,,,
+1236,1,BHK,Apartment,Kondapur,Hyderabad,"25,000",600,Furnished,,,
+1237,1,BHK,Apartment,Kondapur,Hyderabad,"24,000",600,Furnished,,,
+1238,1,BHK,Apartment,Kondapur,Hyderabad,"18,000",600,Semi-Furnished,,,
+1239,3,BHK,Apartment,Kondapur,Hyderabad,"60,000",1730,Semi-Furnished,,,
+1240,2,BHK,Independent,AS Rao Nagar,Hyderabad,"17,000",1350,Semi-Furnished,No,2,East
+1241,3,BHK,Apartment,Kondapur,Hyderabad,"60,000",1730,Semi-Furnished,,,
+1242,3,BHK,Apartment,Madhapur,Hyderabad,1.9,2680,Furnished,,,
+1243,3,BHK,Independent,Manikonda Road,Hyderabad,"37,000",1900,Semi-Furnished,,,
+1244,1,BHK,Apartment,Kondapur,Hyderabad,"24,000",600,Furnished,,,3rd
+1245,2,BHK,Apartment,Bachupally,Hyderabad,"20,000",1600,Semi-Furnished,No,2,
+1246,2,BHK,Independent,Dammaiguda,Hyderabad,"9,000",1000,Unfurnished,No,2,North
+1247,3,BHK,Apartment,Bachupally,Hyderabad,"28,000",1479,Semi-Furnished,No,3,East
+1248,2,BHK,Apartment,Gachibowli,Hyderabad,"32,000",1342,Semi-Furnished,,,
+1249,1,BHK,Apartment,Kondapur,Hyderabad,"9,000",650,Semi-Furnished,No,1,
+1250,2,BHK,Apartment,Kondapur,Hyderabad,"18,000",1320,Semi-Furnished,No,2,East
+1251,3,BHK,Apartment,Kokapet,Hyderabad,"48,000",1485,Semi-Furnished,,,
+1252,2,BHK,Apartment,Manikonda,Hyderabad,"45,000",1314,Semi-Furnished,,,
+1253,3,BHK,Apartment,Shaikpet,Hyderabad,"56,000",2190,Semi-Furnished,,,
+1254,3,BHK,Apartment,Kondapur,Hyderabad,"80,000",2020,Semi-Furnished,,,
+1255,3,BHK,Apartment,Manikonda,Hyderabad,"55,000",1905,Semi-Furnished,,,
+1256,1,BHK,Independent,Anjaiah Nagar,Hyderabad,"21,000",600,Furnished,,,
+1257,4,BHK,Apartment,Hitech City,Hyderabad,"85,000",3600,Semi-Furnished,,,
+1258,3,BHK,Apartment,Hitech City,Hyderabad,"45,000",1580,Furnished,,,
+1259,3,BHK,Apartment,Manikonda,Hyderabad,"55,000",1834,Semi-Furnished,,,
+1260,4,BHK,Apartment,Gachibowli,Hyderabad,"95,000",2708,Furnished,,,
+1261,4,BHK,Villa,Narsingi,Hyderabad,,,Semi-Furnished,,,
+1262,2,BHK,Apartment,Kompally,Hyderabad,"16,000",1175,Semi-Furnished,,,
+1263,1,BHK,Independent,Madhura Nagar,Hyderabad,"8,000",230,Semi-Furnished,,,
+1264,1,BHK,Independent,Chandanagar,Hyderabad,"11,000",800,Unfurnished,,,
+1265,2,BHK,Penthouse,Chandanagar,Hyderabad,"15,000",1100,Semi-Furnished,,,
+1266,2,BHK,Apartment,Rajendra Nagar,Hyderabad,"23,000",940,Semi-Furnished,No,2,East
+1267,2,BHK,Apartment,Rajendra Nagar,Hyderabad,"23,000",940,Semi-Furnished,No,2,East
+1268,2,BHK,Apartment,Rajendra Nagar,Hyderabad,"23,000",940,Semi-Furnished,No,2,East
+1269,2,BHK,Apartment,Rajendra Nagar,Hyderabad,"23,000",940,Semi-Furnished,No,2,East
+1270,2,BHK,Apartment,Rajendra Nagar,Hyderabad,"23,000",940,Semi-Furnished,No,2,East
+1271,2,BHK,Apartment,Rajendra Nagar,Hyderabad,"23,000",940,Semi-Furnished,No,2,East
+1272,2,BHK,Apartment,Rajendra Nagar,Hyderabad,"23,000",940,Semi-Furnished,No,2,East
+1273,2,BHK,Apartment,Rajendra Nagar,Hyderabad,"23,000",940,Semi-Furnished,No,2,East
+1274,2,BHK,Apartment,Rajendra Nagar,Hyderabad,"23,000",940,Semi-Furnished,No,2,East
+1275,2,BHK,Apartment,Rajendra Nagar,Hyderabad,"23,000",940,Semi-Furnished,No,2,East
+1276,2,BHK,Apartment,Rajendra Nagar,Hyderabad,"23,000",940,Semi-Furnished,No,2,East
+1277,2,BHK,Apartment,Rajendra Nagar,Hyderabad,"23,000",940,Semi-Furnished,No,2,East
+1278,3,BHK,Apartment,Kompally,Hyderabad,"27,500",1400,Furnished,No,2,East
+1279,1,BHK,Independent,Malkajgiri,Hyderabad,"10,000",600,Semi-Furnished,No,2,East
+1280,2,BHK,Apartment,Malkajgiri,Hyderabad,"12,500",1334,Semi-Furnished,No,1,
+1281,1,BHK,Apartment,Gajularamaram,Hyderabad,"7,500",450,Semi-Furnished,No,1,West
+1282,1,BHK,Apartment,Gajularamaram,Hyderabad,"7,500",450,Semi-Furnished,No,1,West
+1283,3,BHK,Independent,Malkajgiri Hyderabad,Hyderabad,"14,000",2950,Unfurnished,,,
+1284,5,BHK,Villa,Gopanpally,Hyderabad,"55,000",3500,Semi-Furnished,,,
+1285,2,BHK,Independent,Uppal,Hyderabad,"23,000",2000,Semi-Furnished,,,
+1286,3,BHK,Apartment,Kompally,Hyderabad,"27,500",1400,Furnished,No,2,East
+1287,1,BHK,Independent,Malkajgiri,Hyderabad,"10,000",600,Semi-Furnished,No,2,East
+1288,1,BHK,Independent,Malkajgiri,Hyderabad,"10,000",600,Semi-Furnished,No,2,East
+1289,1,BHK,Independent,Malkajgiri,Hyderabad,"10,000",600,Semi-Furnished,No,2,East
+1290,3,BHK,Apartment,Kompally,Hyderabad,"27,500",1400,Furnished,No,2,East
+1291,2,BHK,Independent,Serilingampally,Hyderabad,"17,000",1100,Semi-Furnished,No,2,
+1292,1,BHK,Independent,Malkajgiri,Hyderabad,"10,000",600,Semi-Furnished,No,2,East
+1293,1,BHK,Independent,Malkajgiri,Hyderabad,"10,000",600,Semi-Furnished,No,2,East
+1294,1,BHK,Independent,Malkajgiri,Hyderabad,"10,000",600,Semi-Furnished,No,2,East
+1295,1,BHK,Independent,Malkajgiri,Hyderabad,"10,000",600,Semi-Furnished,No,2,East
+1296,2,BHK,Independent,Serilingampally,Hyderabad,"17,000",1100,Semi-Furnished,No,2,
+1297,3,BHK,Apartment,Kompally,Hyderabad,"27,500",1400,Furnished,No,2,East
+1298,3,BHK,Apartment,Kompally,Hyderabad,"27,500",1400,Furnished,No,2,East
+1299,3,BHK,Apartment,Kompally,Hyderabad,"27,500",1400,Furnished,No,2,East
+1300,3,BHK,Apartment,Kompally,Hyderabad,"27,500",1400,Furnished,No,2,East
+1301,3,BHK,Apartment,Kompally,Hyderabad,"27,500",1400,Furnished,No,2,East
+1302,1,BHK,Independent,Malkajgiri,Hyderabad,"10,000",600,Semi-Furnished,No,2,East
+1303,4,BHK,Apartment,Bandlaguda Jagir,Hyderabad,"30,000",2000,Furnished,,,
+1304,4,BHK,Villa,Beeramguda,Hyderabad,"20,000",2800,Semi-Furnished,,,
+1305,2,BHK,Apartment,Bowenpally,Hyderabad,"24,985",1315,Furnished,,,
+1306,3,BHK,Apartment,Kompally,Hyderabad,"16,000",1400,Semi-Furnished,,,
+1307,2,BHK,Apartment,Kukatpally,Hyderabad,"27,000",1262,Semi-Furnished,,,
+1308,2,BHK,Independent,Alwal,Hyderabad,"9,800",900,Unfurnished,No,2,North
+1309,1,BHK,Independent,Golnaka,Hyderabad,"7,000",900,Unfurnished,,,
+1310,1,BHK,Independent,Jillelaguda,Hyderabad,"5,000",400,Semi-Furnished,,,
+1311,1,RK,Studio,Gachibowli,Hyderabad,"20,000",450,Furnished,No,1,East
+1312,3,BHK,Apartment,Kompally,Hyderabad,"25,000",1395,Semi-Furnished,No,3,West
+1313,4,BHK,Villa,Kukatpally,Hyderabad,"80,000",3415,Semi-Furnished,,,
+1314,2,BHK,Apartment,Syed Ali Guda,Hyderabad,"15,000",1100,Unfurnished,No,2,East
+1315,3,BHK,Apartment,Sainikpuri,Hyderabad,"24,000",1450,Semi-Furnished,No,2,West
+1316,3,BHK,Apartment,Qutub Shahi Tombs,Hyderabad,"19,000",1200,Semi-Furnished,No,3,
+1317,1,BHK,Apartment,Kondapur,Hyderabad,"11,000",720,Furnished,No,1,NorthEast
+1318,3,BHK,Villa,Shankarpally Road,Hyderabad,"45,000",2450,Semi-Furnished,No,4,East
+1319,2,BHK,Independent,Masab Tank,Hyderabad,"20,000",900,Semi-Furnished,No,1,West
+1320,3,BHK,Apartment,Manikonda,Hyderabad,"60,000",1383,Furnished,No,3,
+1321,1,BHK,Apartment,Kondapur,Hyderabad,"11,000",730,Furnished,No,1,NorthEast
+1322,1,BHK,Apartment,Gachibowli,Hyderabad,"11,000",720,Furnished,No,1,NorthEast
+1323,1,BHK,Apartment,Gachibowli,Hyderabad,"11,000",720,Furnished,No,1,NorthEast
+1324,2,BHK,Apartment,Miyapur,Hyderabad,"19,000",1800,Unfurnished,No,2,
+1325,1,BHK,Independent,Azamabad,Hyderabad,"12,000",900,Unfurnished,No,1,
+1326,2,BHK,Independent,Boduppal,Hyderabad,"8,500",900,Unfurnished,No,2,
+1327,3,BHK,Apartment,Tellapur,Hyderabad,"50,000",1840,Semi-Furnished,No,3,
+1328,2,BHK,Apartment,Kukatpally,Hyderabad,"28,000",1135,Furnished,No,2,
+1329,1,BHK,Apartment,Kondapur,Hyderabad,"18,000",400,Semi-Furnished,No,1,
+1330,4,BHK,Independent,Zaheerabad,Hyderabad,1.1,4000,Semi-Furnished,No,4,
+1331,3,BHK,Apartment,Bolarum,Hyderabad,"25,000",1680,Semi-Furnished,No,3,
+1332,1,BHK,Independent,Bollaram,Hyderabad,"6,500",350,Unfurnished,No,1,
+1333,2,BHK,Independent,Nacharam,Hyderabad,"15,000",1200,Furnished,,,
+1334,1,BHK,Apartment,Gachibowli,Hyderabad,"15,000",650,Furnished,No,1,East
+1335,1,RK,Studio,Ameerpet,Hyderabad,"6,000",163,Semi-Furnished,No,1,
+1336,2,BHK,Independent,Sainikpuri,Hyderabad,"35,000",2500,Semi-Furnished,No,2,
+1337,3,BHK,Independent,Serilingampally,Hyderabad,"25,000",1250,Semi-Furnished,No,3,
+1338,2,BHK,Independent,Nacharam,Hyderabad,"12,000",800,Unfurnished,No,2,
+1339,2,BHK,Apartment,Bachupally,Hyderabad,"14,000",1150,Unfurnished,No,2,
+1340,2,BHK,Independent,Karmanghat,Hyderabad,"12,000",1250,Semi-Furnished,No,1,West
+1341,2,BHK,Apartment,Banjara Hills,Hyderabad,"20,000",1200,Furnished,No,2,
+1342,1,RK,Studio,Lakdikapul,Hyderabad,"5,000",150,Unfurnished,No,1,
+1343,1,BHK,Independent,Gajularamaram,Hyderabad,"9,500",580,Unfurnished,No,1,
+1344,3,BHK,Apartment,Kompally,Hyderabad,"25,000",1400,Furnished,No,2,East
+1345,2,BHK,Independent,Manikonda,Hyderabad,"30,000",1300,Semi-Furnished,No,2,
+1346,3,BHK,Independent,Kompally,Hyderabad,"25,000",1900,Semi-Furnished,No,3,East
+1347,3,BHK,Independent,Pragathi Nagar Kukatpally,Hyderabad,"30,000",1750,Semi-Furnished,,,
+1348,3,BHK,Apartment,Kokapet,Hyderabad,"68,000",2184,Semi-Furnished,No,3,West
+1349,3,BHK,Apartment,Kokapet,Hyderabad,"68,000",2185,Semi-Furnished,No,3,
+1350,1,BHK,Apartment,Gachibowli,Hyderabad,"15,000",650,Furnished,No,1,East
+1351,3,BHK,Independent,Saroornagar,Hyderabad,"23,000",1800,Unfurnished,No,3,
+1352,1,BHK,Independent,Madhapur,Hyderabad,"20,000",750,Furnished,No,1,East
+1353,2,BHK,Apartment,Qutub Shahi Tombs,Hyderabad,"15,000",1100,Unfurnished,No,2,
+1354,1,BHK,Apartment,Gachibowli,Hyderabad,"11,000",730,Furnished,No,1,NorthEast
+1355,1,BHK,Independent,Erragadda,Hyderabad,"15,000",750,Semi-Furnished,No,1,East
+1356,1,BHK,Apartment,Gachibowli,Hyderabad,"15,000",650,Furnished,No,1,East
+1357,2,BHK,Independent,Nacharam,Hyderabad,"15,000",1200,Furnished,,,
+1358,2,BHK,Independent,Kowkur,Hyderabad,"11,500",1325,Semi-Furnished,No,2,South
+1359,1,BHK,Apartment,Kondapur,Hyderabad,"11,000",820,Furnished,No,1,NorthEast
+1360,1,BHK,Independent,Bandlaguda Jagir,Hyderabad,"11,000",700,Unfurnished,No,1,
+1361,1,BHK,Apartment,Tellapur,Hyderabad,"15,000",650,Furnished,No,1,East
+1362,3,BHK,Independent,Serilingampally,Hyderabad,"45,000",3000,Furnished,No,4,West
+1363,2,BHK,Independent,Malkajgiri,Hyderabad,"13,000",1200,Unfurnished,No,2,
+1364,3,BHK,Apartment,Manikonda,Hyderabad,"48,000",1575,Semi-Furnished,No,3,
+1365,1,BHK,Independent,Kapra,Hyderabad,"6,000",500,Unfurnished,No,1,
+1366,3,BHK,Apartment,Pragathi Nagar Kukatpally,Hyderabad,"25,000",1200,Semi-Furnished,No,3,
+1367,3,BHK,Independent,Boduppal,Hyderabad,"30,000",1780,Unfurnished,No,3,
+1368,2,BHK,Apartment,Uppal,Hyderabad,"9,000",900,Furnished,No,2,
+1369,2,BHK,Independent,Patancheru,Hyderabad,"11,000",1250,Semi-Furnished,No,2,
+1370,1,RK,Studio,Banjara Hills,Hyderabad,"10,000",200,Unfurnished,No,1,
+1371,7,BHK,Villa,Bolarum,Hyderabad,"50,000",2800,Semi-Furnished,No,7,
+1372,2,BHK,Apartment,Miyapur,Hyderabad,"15,500",1027,Semi-Furnished,No,2,
+1373,1,BHK,Independent,Malkajgiri,Hyderabad,"7,000",720,Semi-Furnished,No,1,
+1374,2,BHK,Independent,Jai Suryapatnam,Hyderabad,"12,000",1200,Furnished,No,2,
+1375,1,BHK,Apartment,Hafeezpet,Hyderabad,"17,500",1000,Furnished,No,1,
+1376,2,BHK,Apartment,Jeedimetla,Hyderabad,"12,000",900,Semi-Furnished,No,2,
+1377,2,BHK,Independent,Yousufguda,Hyderabad,"14,000",600,Unfurnished,No,2,
+1378,2,BHK,Independent,kuntloor,Hyderabad,"9,500",1100,Semi-Furnished,No,2,
+1379,2,BHK,Independent,Alwal,Hyderabad,"10,000",1800,Unfurnished,No,2,
+1380,1,BHK,Independent,Malkajgiri,Hyderabad,"7,500",850,Unfurnished,No,1,
+1381,1,BHK,Independent,Uppal,Hyderabad,"6,500",700,Semi-Furnished,No,1,NorthEast
+1382,2,BHK,Independent,Tellapur,Hyderabad,"12,500",750,Unfurnished,No,2,
+1383,4,BHK,Villa,Kothapet,Hyderabad,1.75,4200,Furnished,No,4,
+1384,3,BHK,Apartment,Miyapur,Hyderabad,"25,000",1500,Semi-Furnished,No,3,
+1385,4,BHK,Independent,Chanchalguda,Hyderabad,"20,000",1800,Unfurnished,No,4,
+1386,4,BHK,Independent,Hafeezpet,Hyderabad,"75,000",3500,Unfurnished,No,4,
+1387,2,BHK,Independent,Hafeezpet,Hyderabad,"20,000",800,Unfurnished,No,2,
+1388,2,BHK,Independent,Miyapur,Hyderabad,"18,000",1500,Semi-Furnished,No,2,
+1389,2,BHK,Independent,Uppal,Hyderabad,"8,000",1000,Unfurnished,No,2,
+1390,2,BHK,Independent,Banjara Hills,Hyderabad,"20,000",1000,Unfurnished,No,2,
+1391,3,BHK,Apartment,Moti Nagar,Hyderabad,"48,000",1583,Semi-Furnished,No,2,West
+1392,3,BHK,Independent,Nawab Saheb Kunta,Hyderabad,"10,000",1125,Unfurnished,No,3,
+1393,2,BHK,Independent,Dammaiguda,Hyderabad,"10,000",1600,Semi-Furnished,No,2,West
+1394,3,BHK,Independent,Attapur,Hyderabad,"18,000",1600,Semi-Furnished,No,3,
+1395,1,BHK,Independent,Neredmet,Hyderabad,"7,000",250,Unfurnished,No,1,
+1396,2,BHK,Independent,Trimalgherry,Hyderabad,"10,500",1050,Unfurnished,No,2,
+1397,1,BHK,Independent,Azamabad,Hyderabad,"12,000",900,Unfurnished,No,1,
+1398,2,BHK,Independent,Boduppal,Hyderabad,"8,500",900,Unfurnished,No,2,
+1399,3,BHK,Apartment,Tellapur,Hyderabad,"50,000",1840,Semi-Furnished,No,3,
+1400,3,BHK,Apartment,Kondapur,Hyderabad,"25,000",1550,Furnished,No,1,East
+1401,3,BHK,Independent,Saroornagar,Hyderabad,"23,000",1800,Unfurnished,No,3,
+1402,1,BHK,Independent,Madhapur,Hyderabad,"20,000",750,Furnished,No,1,East
+1403,3,BHK,Apartment,Kokapet,Hyderabad,"68,000",2184,Semi-Furnished,No,3,West
+1404,3,BHK,Apartment,Kokapet,Hyderabad,"68,000",2185,Semi-Furnished,No,3,
+1405,2,BHK,Apartment,Kukatpally,Hyderabad,"21,700",1000,Semi-Furnished,No,2,West
+1406,3,BHK,Apartment,Amberpet,Hyderabad,"28,000",1380,Semi-Furnished,No,3,
+1407,1,BHK,Apartment,chandrayangutta,Hyderabad,"6,000",650,Semi-Furnished,No,1,NorthEast
+1408,2,BHK,Apartment,Qutub Shahi Tombs,Hyderabad,"15,000",1100,Unfurnished,No,2,
+1409,1,BHK,Apartment,Hitech City,Hyderabad,"10,000",740,Furnished,No,1,
+1410,1,RK,Studio,Mettuguda,Hyderabad,"7,000",360,Semi-Furnished,No,1,
+1411,3,BHK,Apartment,Manikonda,Hyderabad,"42,000",1800,Semi-Furnished,No,3,
+1412,3,BHK,Apartment,Kukatpally,Hyderabad,"45,000",1750,Semi-Furnished,No,3,NorthEast
+1413,3,BHK,Apartment,Nallagandla Gachibowli,Hyderabad,"50,000",1760,Furnished,No,3,East
+1414,4,BHK,Villa,Nallagandla Gachibowli,Hyderabad,,,Semi-Furnished,No,4,East
+1415,1,BHK,Independent,Erragadda,Hyderabad,"15,000",750,Semi-Furnished,No,1,East
+1416,1,BHK,Apartment,Gachibowli,Hyderabad,"11,000",730,Furnished,No,1,NorthEast
+1417,2,BHK,Independent,Kowkur,Hyderabad,"11,500",1325,Semi-Furnished,No,2,South
+1418,1,BHK,Apartment,Kondapur,Hyderabad,"11,000",820,Furnished,No,1,NorthEast
+1419,2,BHK,Apartment,Malkajgiri,Hyderabad,"20,000",1100,Furnished,No,2,West
+1420,3,BHK,Independent,Nallagandla Gachibowli,Hyderabad,"35,000",1650,Semi-Furnished,No,3,East
+1421,2,BHK,Independent,Nallagandla Gachibowli,Hyderabad,"35,000",1550,Semi-Furnished,No,2,
+1422,3,BHK,Independent,Kompally,Hyderabad,"25,000",1900,Semi-Furnished,No,3,East
+1423,1,BHK,Apartment,Gachibowli,Hyderabad,"15,000",650,Furnished,No,1,East
+1424,2,BHK,Apartment,Lakdikapul,Hyderabad,"18,000",1260,Semi-Furnished,No,2,
+1425,3,BHK,Apartment,Serilingampally,Hyderabad,"40,000",1550,Semi-Furnished,No,3,
+1426,2,BHK,Villa,Shadnagar,Hyderabad,"13,000",2200,Furnished,No,1,NorthEast
+1427,3,BHK,Apartment,Rajendra Nagar,Hyderabad,"35,000",1315,Semi-Furnished,No,3,East
+1428,1,BHK,Apartment,Gachibowli,Hyderabad,"10,000",640,Furnished,No,1,
+1429,3,BHK,Apartment,Kothapet,Hyderabad,"15,000",1640,Furnished,No,3,
+1430,4,BHK,Independent,Moosapet,Hyderabad,"70,000",3550,Furnished,No,4,
+1431,2,BHK,Apartment,Khairatabad Road,Hyderabad,"25,000",1000,Semi-Furnished,No,2,
+1432,1,BHK,Independent,Bahadurpally,Hyderabad,"6,500",1400,Unfurnished,No,1,
+1433,2,BHK,Independent,Kompally,Hyderabad,"20,000",1000,Unfurnished,No,2,
+1434,2,BHK,Independent,Hyder Nagar,Hyderabad,"20,000",1000,Unfurnished,No,2,
+1435,1,BHK,Independent,Balanagar,Hyderabad,"6,500",800,Unfurnished,No,1,
+1436,2,BHK,Apartment,Kapra,Hyderabad,"14,000",1100,Semi-Furnished,No,2,
+1437,1,BHK,Independent,Hayathnagar,Hyderabad,"5,000",800,Unfurnished,No,1,
+1438,1,RK,Studio,AS Rao Nagar,Hyderabad,"6,000",500,Semi-Furnished,No,1,
+1439,2,BHK,Independent,Yousufguda,Hyderabad,"15,000",1200,Semi-Furnished,No,2,
+1440,3,BHK,Apartment,Kokapet,Hyderabad,"70,000",1390,Semi-Furnished,No,3,
+1441,2,BHK,Independent,Zamistanpur,Hyderabad,"25,000",900,Semi-Furnished,No,2,
+1442,3,BHK,Apartment,Neknampur,Hyderabad,"36,000",1650,Semi-Furnished,No,3,
+1443,2,BHK,Apartment,Kondapur,Hyderabad,"38,000",1200,Furnished,No,2,
+1444,3,BHK,Apartment,Puppalaguda,Hyderabad,"36,000",1650,Semi-Furnished,No,3,West
+1445,4,BHK,Villa,Mokila,Hyderabad,"75,000",3298,Semi-Furnished,No,4,West
+1446,2,BHK,Independent,Ramgopalpet,Hyderabad,"20,000",1125,Semi-Furnished,No,2,
+1447,3,BHK,Apartment,Serilingampally,Hyderabad,"55,000",1787,Furnished,No,3,
+1448,3,BHK,Apartment,Shamshabad,Hyderabad,"45,000",1730,Semi-Furnished,No,3,
+1449,3,BHK,Apartment,Gachibowli,Hyderabad,"75,000",2690,Furnished,No,3,West
+1450,3,BHK,Apartment,Jubilee Hills,Hyderabad,"42,000",1413,Semi-Furnished,No,2,East
+1451,1,RK,Studio,Hafeezpet,Hyderabad,"6,500",350,Unfurnished,No,1,
+1452,2,BHK,Independent,Padmarao Nagar,Hyderabad,"10,500",900,Semi-Furnished,No,2,
+1453,2,BHK,Independent,Nagaram,Hyderabad,"8,000",1300,Unfurnished,No,2,
+1454,3,BHK,Independent,Saidabad,Hyderabad,"28,500",1500,Semi-Furnished,No,3,
+1455,2,BHK,Independent,Saroornagar,Hyderabad,"17,000",1700,Semi-Furnished,No,2,
+1456,3,BHK,Independent,Dammaiguda,Hyderabad,"17,000",1300,Unfurnished,No,3,
+1457,2,BHK,Independent,Thorrur Village,Hyderabad,"8,500",1020,Unfurnished,No,2,
+1458,3,BHK,Apartment,Nallagandla Gachibowli,Hyderabad,"50,000",1800,Semi-Furnished,No,3,
+1459,2,BHK,Apartment,Padmarao Nagar,Hyderabad,"22,000",1200,Unfurnished,No,2,
+1460,2,BHK,Independent,Neeladri Nagar,Hyderabad,"12,000",1197,Semi-Furnished,No,2,
+1461,2,BHK,Independent,Bairagiguda,Hyderabad,"17,000",1125,Semi-Furnished,No,2,
+1462,1,BHK,Independent,Begumpet,Hyderabad,"12,500",450,Unfurnished,No,1,
+1463,3,BHK,Independent,Nagaram,Hyderabad,"8,000",1500,Unfurnished,No,3,
+1464,2,BHK,Apartment,Chandanagar,Hyderabad,"12,000",780,Unfurnished,No,2,
+1465,2,BHK,Independent,Hanamkonda,Hyderabad,"6,500",1100,Unfurnished,No,2,East
+1466,3,BHK,Apartment,Ghanpur,Hyderabad,"15,000",1360,Furnished,No,3,
+1467,1,RK,Studio,Gachibowli,Hyderabad,"10,000",500,Semi-Furnished,No,1,
+1468,3,BHK,Villa,Mallampet,Hyderabad,"30,000",2468,Semi-Furnished,No,3,
+1469,1,BHK,Independent,Suraram,Hyderabad,"5,000",250,Furnished,No,1,
+1470,1,RK,Studio,Suraram,Hyderabad,"5,000",250,Unfurnished,No,1,South
+1471,2,BHK,Independent,Boduppal,Hyderabad,"11,000",1000,Unfurnished,No,2,
+1472,2,BHK,Independent,Saroornagar,Hyderabad,"12,500",700,Semi-Furnished,No,2,
+1473,2,BHK,Apartment,Toli Chowki,Hyderabad,"23,000",1200,Semi-Furnished,No,2,
+1474,1,BHK,Independent,Hastinapuram,Hyderabad,"8,000",650,Unfurnished,No,1,
+1475,2,BHK,Independent,Aminpur,Hyderabad,"14,500",1278,Unfurnished,No,2,
+1476,2,BHK,Independent,Boduppal,Hyderabad,"12,000",1500,Unfurnished,No,2,
+1477,1,BHK,Independent,Mehdipatnam,Hyderabad,"10,000",1000,Unfurnished,No,1,
+1478,3,BHK,Villa,Patancheru,Hyderabad,"32,000",1350,Semi-Furnished,No,3,
+1479,2,BHK,Apartment,Serilingampally,Hyderabad,"12,000",780,Unfurnished,No,2,
+1480,2,BHK,Independent,Hafeezpet,Hyderabad,"20,000",800,Unfurnished,No,2,
+1481,2,BHK,Independent,Miyapur,Hyderabad,"18,000",1500,Semi-Furnished,No,2,
+1482,2,BHK,Independent,Uppal,Hyderabad,"8,000",1000,Unfurnished,No,2,
+1483,3,BHK,Apartment,Moti Nagar,Hyderabad,"48,000",1583,Semi-Furnished,No,2,West
+1484,3,BHK,Independent,Nawab Saheb Kunta,Hyderabad,"10,000",1125,Unfurnished,No,3,
+1485,2,BHK,Independent,Dammaiguda,Hyderabad,"10,000",1600,Semi-Furnished,No,2,West
+1486,3,BHK,Independent,Attapur,Hyderabad,"18,000",1600,Semi-Furnished,No,3,
+1487,1,BHK,Independent,Neredmet,Hyderabad,"7,000",250,Unfurnished,No,1,
+1488,3,BHK,Apartment,Shamshabad,Hyderabad,"45,000",1730,Semi-Furnished,No,3,
+1489,3,BHK,Apartment,Gachibowli,Hyderabad,"75,000",2690,Furnished,No,3,West
+1490,3,BHK,Apartment,Jubilee Hills,Hyderabad,"42,000",1413,Semi-Furnished,No,2,East
+1491,1,RK,Studio,Hafeezpet,Hyderabad,"6,500",350,Unfurnished,No,1,
+1492,2,BHK,Independent,Padmarao Nagar,Hyderabad,"10,500",900,Semi-Furnished,No,2,
+1493,2,BHK,Independent,Nagaram,Hyderabad,"8,000",1300,Unfurnished,No,2,
+1494,3,BHK,Independent,Saidabad,Hyderabad,"28,500",1500,Semi-Furnished,No,3,
+1495,2,BHK,Independent,Saroornagar,Hyderabad,"17,000",1700,Semi-Furnished,No,2,
+1496,3,BHK,Independent,Dammaiguda,Hyderabad,"17,000",1300,Unfurnished,No,3,
+1497,2,BHK,Independent,Thorrur Village,Hyderabad,"8,500",1020,Unfurnished,No,2,
+1498,3,BHK,Apartment,Nallagandla Gachibowli,Hyderabad,"50,000",1800,Semi-Furnished,No,3,
+1499,2,BHK,Apartment,Padmarao Nagar,Hyderabad,"22,000",1200,Unfurnished,No,2,
+1500,3,BHK,Apartment,Nallagandla Gachibowli,Hyderabad,"50,000",1800,Semi-Furnished,No,3,
+1501,2,BHK,Apartment,Padmarao Nagar,Hyderabad,"22,000",1200,Unfurnished,No,2,
+1502,1,BHK,Independent,Habsiguda,Hyderabad,"12,500",700,Unfurnished,No,1,
+1503,1,BHK,Independent,Habsiguda,Hyderabad,"5,500",150,Unfurnished,No,1,
+1504,3,BHK,Apartment,Kanchan Bagh,Hyderabad,"10,000",945,Unfurnished,No,3,
+1505,3,BHK,Apartment,Sainikpuri,Hyderabad,"18,000",1440,Semi-Furnished,No,3,
+1506,2,BHK,Apartment,Nallagandla Gachibowli,Hyderabad,"27,000",1190,Semi-Furnished,No,2,
+1507,1,BHK,Independent,Amberpet,Hyderabad,"6,000",500,Unfurnished,No,1,
+1508,2,BHK,Apartment,Kapra,Hyderabad,"11,000",950,Furnished,No,2,
+1509,2,BHK,Apartment,Padmarao Nagar,Hyderabad,"22,000",1200,Semi-Furnished,No,2,
+1510,5,BHK,Independent,Kothapet,Hyderabad,"75,000",7000,Furnished,No,5,North
+1511,5,BHK,Independent,Kachiguda,Hyderabad,"75,000",7500,Furnished,No,5,West
+1512,3,BHK,Apartment,LB Nagar,Hyderabad,"35,000",1484,Furnished,No,3,
+1513,1,BHK,Independent,Kushaiguda,Hyderabad,"8,000",500,Semi-Furnished,No,1,
+1514,3,BHK,Apartment,Ghatkesar,Hyderabad,"15,000",1506,Furnished,No,3,
+1515,2,BHK,Independent,Bandlaguda Jagir,Hyderabad,"16,000",1000,Furnished,No,2,
+1516,2,BHK,Independent,Dammaiguda,Hyderabad,"10,000",1600,Semi-Furnished,No,2,West
+1517,3,BHK,Independent,Attapur,Hyderabad,"18,000",1600,Semi-Furnished,No,3,
+1518,1,BHK,Independent,Neredmet,Hyderabad,"7,000",250,Unfurnished,No,1,
+1519,2,BHK,Apartment,Lakdikapul,Hyderabad,"18,000",1260,Semi-Furnished,No,2,
+1520,3,BHK,Apartment,Serilingampally,Hyderabad,"40,000",1550,Semi-Furnished,No,3,
+1521,2,BHK,Villa,Shadnagar,Hyderabad,"13,000",2200,Furnished,No,1,NorthEast
+1522,1,BHK,Apartment,Gachibowli,Hyderabad,"11,000",720,Furnished,No,1,NorthEast
+1523,1,BHK,Independent,Hafeezpet,Hyderabad,"16,500",750,Unfurnished,No,1,
+1524,3,BHK,Apartment,Serilingampally,Hyderabad,"23,000",1620,Unfurnished,No,3,
+1525,3,BHK,Independent,Dilsukh Nagar,Hyderabad,"30,000",2000,Semi-Furnished,No,3,
+1526,2,BHK,Independent,Vanasthalipuram,Hyderabad,"10,000",1350,Unfurnished,No,2,
+1527,2,BHK,Apartment,Kompally,Hyderabad,"12,000",1000,Unfurnished,No,2,
+1528,1,BHK,Apartment,Nallagandla Gachibowli,Hyderabad,"11,000",720,Furnished,No,1,East
+1529,3,BHK,Apartment,Rajendra Nagar,Hyderabad,"35,000",1315,Semi-Furnished,No,3,East
+1530,1,BHK,Apartment,Gachibowli,Hyderabad,"10,000",640,Furnished,No,1,
+1531,3,BHK,Apartment,Kothapet,Hyderabad,"15,000",1640,Furnished,No,3,
+1532,4,BHK,Independent,Moosapet,Hyderabad,"70,000",3550,Furnished,No,4,
+1533,2,BHK,Apartment,Khairatabad Road,Hyderabad,"25,000",1000,Semi-Furnished,No,2,
+1534,1,BHK,Independent,Bahadurpally,Hyderabad,"6,500",1400,Unfurnished,No,1,
+1535,2,BHK,Independent,Kompally,Hyderabad,"20,000",1000,Unfurnished,No,2,
+1536,2,BHK,Independent,Hyder Nagar,Hyderabad,"20,000",1000,Unfurnished,No,2,
+1537,1,BHK,Independent,Balanagar,Hyderabad,"6,500",800,Unfurnished,No,1,
+1538,2,BHK,Apartment,Kapra,Hyderabad,"14,000",1100,Semi-Furnished,No,2,
+1539,1,BHK,Independent,Hayathnagar,Hyderabad,"5,000",800,Unfurnished,No,1,
+1540,2,BHK,Independent,Bandlaguda Jagir,Hyderabad,"16,000",1000,Furnished,No,2,
+1541,1,RK,Studio,Madhura Nagar,Hyderabad,"20,000",620,Semi-Furnished,No,1,North
+1542,2,BHK,Apartment,Old Bowenpally,Hyderabad,"18,000",1225,Semi-Furnished,No,2,
+1543,3,BHK,Independent,Aminpur,Hyderabad,"25,000",1600,Semi-Furnished,No,3,
+1544,2,BHK,Apartment,Suchitra,Hyderabad,"24,000",900,Semi-Furnished,No,2,
+1545,2,BHK,Villa,Bachupally,Hyderabad,"23,000",1250,Semi-Furnished,No,2,
+1546,3,BHK,Apartment,Bolarum,Hyderabad,"16,000",1380,Semi-Furnished,No,3,
+1547,3,BHK,Independent,Malkajgiri,Hyderabad,"25,000",1402,Semi-Furnished,No,3,
+1548,4,BHK,Villa,Mokila,Hyderabad,"75,000",3298,Semi-Furnished,No,4,West
+1549,1,RK,Studio,Kompally,Hyderabad,"10,000",165,Furnished,No,1,North
+1550,1,BHK,Apartment,Sri Nagar Colony,Hyderabad,"22,000",350,Furnished,No,1,
+1551,2,BHK,Independent,Nacharam,Hyderabad,"15,000",1200,Semi-Furnished,No,2,
+1552,3,BHK,Apartment,Narsingi,Hyderabad,"35,000",1300,Semi-Furnished,No,3,
+1553,2,BHK,Independent,Bairagiguda,Hyderabad,"14,500",1250,Unfurnished,No,2,
+1554,1,BHK,Independent,Trimalgherry,Hyderabad,"8,000",500,Semi-Furnished,No,1,
+1555,2,BHK,Apartment,LB Nagar,Hyderabad,"22,000",1160,Furnished,No,2,
+1556,3,BHK,Apartment,Ahmedguda,Hyderabad,"18,000",1150,Furnished,No,3,
+1557,1,BHK,Independent,Gurram Guda,Hyderabad,"5,500",550,Unfurnished,No,1,
+1558,2,BHK,Independent,Neeladri Nagar,Hyderabad,"12,000",1197,Semi-Furnished,No,2,
+1559,2,BHK,Independent,Bairagiguda,Hyderabad,"17,000",1125,Semi-Furnished,No,2,
+1560,2,BHK,Apartment,Kondapur,Hyderabad,"38,000",1200,Furnished,No,2,
+1561,3,BHK,Apartment,Puppalaguda,Hyderabad,"36,000",1650,Semi-Furnished,No,3,West
+1562,2,BHK,Independent,Ramgopalpet,Hyderabad,"20,000",1125,Semi-Furnished,No,2,
+1563,3,BHK,Apartment,Serilingampally,Hyderabad,"55,000",1787,Furnished,No,3,
+1564,2,BHK,Independent,Vanasthalipuram,Hyderabad,"10,000",1350,Unfurnished,No,2,
+1565,2,BHK,Apartment,Kompally,Hyderabad,"12,000",1000,Unfurnished,No,2,
+1566,1,RK,Studio,Kompally,Hyderabad,"10,000",165,Furnished,No,1,North
+1567,1,BHK,Apartment,Sri Nagar Colony,Hyderabad,"22,000",350,Furnished,No,1,
+1568,2,BHK,Independent,Nacharam,Hyderabad,"15,000",1200,Semi-Furnished,No,2,
+1569,3,BHK,Apartment,Narsingi,Hyderabad,"35,000",1300,Semi-Furnished,No,3,
+1570,2,BHK,Independent,Bairagiguda,Hyderabad,"14,500",1250,Unfurnished,No,2,
+1571,1,BHK,Independent,Trimalgherry,Hyderabad,"8,000",500,Semi-Furnished,No,1,
+1572,2,BHK,Apartment,LB Nagar,Hyderabad,"22,000",1160,Furnished,No,2,
+1573,3,BHK,Apartment,Ahmedguda,Hyderabad,"18,000",1150,Furnished,No,3,
+1574,1,BHK,Independent,Gurram Guda,Hyderabad,"5,500",550,Unfurnished,No,1,
+1575,2,BHK,Independent,Neeladri Nagar,Hyderabad,"12,000",1197,Semi-Furnished,No,2,
+1576,2,BHK,Independent,Bairagiguda,Hyderabad,"17,000",1125,Semi-Furnished,No,2,
+1577,1,BHK,Independent,Begumpet,Hyderabad,"12,500",450,Unfurnished,No,1,
+1578,3,BHK,Independent,Nagaram,Hyderabad,"8,000",1500,Unfurnished,No,3,
+1579,2,BHK,Apartment,Chandanagar,Hyderabad,"12,000",780,Unfurnished,No,2,
+1580,1,BHK,Independent,Begumpet,Hyderabad,"12,500",450,Unfurnished,No,1,
+1581,3,BHK,Independent,Nagaram,Hyderabad,"8,000",1500,Unfurnished,No,3,
+1582,2,BHK,Apartment,Chandanagar,Hyderabad,"12,000",780,Unfurnished,No,2,
+1583,2,BHK,Independent,Hanamkonda,Hyderabad,"6,500",1100,Unfurnished,No,2,East
+1584,3,BHK,Apartment,Ghanpur,Hyderabad,"15,000",1360,Furnished,No,3,
+1585,2,BHK,Apartment,Old Bowenpally,Hyderabad,"18,000",1225,Semi-Furnished,No,2,
+1586,3,BHK,Independent,Aminpur,Hyderabad,"25,000",1600,Semi-Furnished,No,3,
+1587,2,BHK,Apartment,Suchitra,Hyderabad,"24,000",900,Semi-Furnished,No,2,
+1588,2,BHK,Villa,Bachupally,Hyderabad,"23,000",1250,Semi-Furnished,No,2,
+1589,3,BHK,Apartment,Bolarum,Hyderabad,"16,000",1380,Semi-Furnished,No,3,
+1590,3,BHK,Independent,Malkajgiri,Hyderabad,"25,000",1402,Semi-Furnished,No,3,
+1591,1,RK,Studio,Madhura Nagar,Hyderabad,"20,000",620,Semi-Furnished,No,1,North
+1592,1,RK,Studio,Yousufguda,Hyderabad,"6,000",400,Unfurnished,No,1,
+1593,4,BHK,Villa,Nizampet,Hyderabad,"55,000",3200,Semi-Furnished,No,4,
+1594,1,BHK,Independent,Dammaiguda,Hyderabad,"4,000",400,Unfurnished,No,1,
+1595,1,BHK,Apartment,Gachibowli,Hyderabad,"11,000",720,Furnished,No,1,East
+1596,3,BHK,Apartment,Zamistanpur,Hyderabad,"24,000",1150,Semi-Furnished,No,2,East
+1597,2,BHK,Apartment,Toli Chowki,Hyderabad,"24,000",1150,Semi-Furnished,No,2,
+1598,2,BHK,Independent,Chintalakunta,Hyderabad,"15,000",1200,Semi-Furnished,No,2,
+1599,3,BHK,Independent,Miyapur,Hyderabad,"14,500",1800,Semi-Furnished,No,3,

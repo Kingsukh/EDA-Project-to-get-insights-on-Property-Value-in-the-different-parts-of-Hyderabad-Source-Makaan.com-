@@ -1,0 +1,21 @@
+,room_capacity,building_type,location,city,price,area_in_sqft,status,deposit,facing
+0,3,Apartment,Attapur,Hyderabad,"9,000",600,FurnishedStatus,No,
+1,2,Apartment,Toli Chowki,Hyderabad,"16,000",1100,Semi-FurnishedStatus,No,
+2,4,Independent,Shamshabad,Hyderabad,"45,000",3000,FurnishedStatus,No,West
+3,3,Apartment,Nanakramguda,Hyderabad,"80,000",3105,FurnishedStatus,No,
+4,2,Independent,Malakpet,Hyderabad,"18,000",1200,UnfurnishedStatus,No,
+5,4,Villa,Nizampet,Hyderabad,"30,000",2400,UnfurnishedStatus,No,
+6,3,Apartment,Uppal,Hyderabad,"20,000",1800,FurnishedStatus,No,
+7,3,Apartment,Banjara Hills,Hyderabad,1.15,3130,Semi-FurnishedStatus,No,
+8,2,Apartment,Nallagandla Gachibowli,Hyderabad,"25,000",1350,Semi-FurnishedStatus,No,
+9,2,Apartment,Kondapur,Hyderabad,"25,000",1100,Semi-FurnishedStatus,No,North
+10,3,Apartment,Nanakramguda,Hyderabad,"47,500",1885,Semi-FurnishedStatus,No,
+11,4,Apartment,Kondapur,Hyderabad,"95,000",3070,Semi-FurnishedStatus,No,East
+12,3,Apartment,Nanakramguda,Hyderabad,"42,000",1886,UnfurnishedStatus,No,
+13,1,Apartment,Kondapur,Hyderabad,"24,500",580,FurnishedStatus,No,North
+14,1,Apartment,Kondapur,Hyderabad,"15,000",1000,Semi-FurnishedStatus,No,
+15,1,Apartment,Madhapur,Hyderabad,"27,000",708,FurnishedStatus,No,
+16,3,Apartment,Kukatpally,Hyderabad,"46,000",1500,Semi-FurnishedStatus,No,
+17,3,Apartment,Jubilee Hills,Hyderabad,"60,000",2500,Semi-FurnishedStatus,No,
+18,3,Apartment,Kondapur,Hyderabad,"70,000",1840,Semi-FurnishedStatus,No,East
+19,1,Apartment,Madhapur,Hyderabad,"10,000",740,FurnishedStatus,No,
